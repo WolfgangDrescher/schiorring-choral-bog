@@ -53,6 +53,8 @@ for file in "${args[0]}"/*.{mxl,xml,musicxml}; do
             swap_lines | \
             sed "s/^!!!OMV:/!!!OTL@@DA:/" | \
             sed "s/^!!!OTL:/!!!OPR@@DA:/" | \
+            cat <(echo -e -n "!!!CDT: 1743-1798\n") - | \
+            cat <(echo -e -n "!!!COM: Schiørring, Niels\n") - | \
             cat - <(echo -e -n "!!!AGN: chorale\n") | \
             echo -ne "$(cat)" \
             > "kern/$kern_filename"
