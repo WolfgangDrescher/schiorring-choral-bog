@@ -63,6 +63,7 @@ for file in "${args[0]}"/*.{mxl,xml,musicxml}; do
             cat - <(echo -e -n "!!!ENC: Wolfgang Drescher\n") | \
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
+            grep -v '^*I' | \
             awk '!/^([\t*]+)$/' | \
             echo -ne "$(cat)" \
             > "kern/$kern_filename"
