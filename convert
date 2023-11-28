@@ -71,6 +71,7 @@ for file in "${args[0]}"/*.{mxl,xml,musicxml}; do
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
             awk '/^\*met/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1' | \
+            sed '/^!!!OTL/ s/'\''/’/' | \
             grep -v '^*I' | \
             awk '!/^([\t*]+)$/' | \
             echo -ne "$(cat)" \
