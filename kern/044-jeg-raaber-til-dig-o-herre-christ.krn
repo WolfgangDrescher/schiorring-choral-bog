@@ -1,0 +1,113 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 44
+!!!OTL@@DA: Jeg raaber til dig, o Herre Chriſt
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*	*	*	*	*	*	*Trd0c0	*	*
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*	*F:	*F:	*F:	*F:	*F:	*F:	*F:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*	*	*	*^	*^	*	*	*	*
+2D	.	2a	2F	2D	2a	2A	2D	2f	2A	2a
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2D	.	2f	2A	2D	2f	1A	2D	2a	2A	2f
+2C#X	5	2g	2E	2C#X	2g	.	2C#X	2e	2A	2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2D	.	2f	2F	2D	2f	2A	2D	2f	2A	2f
+*	*	*	*	*	*	*	*^	*	*	*
+2BB-	.	2d	2F	2BB-	2d	2B-	2B-	2BB-	2f	2B-	2d
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2AA	6	2f	2.F	2AA	2f	2c	2A	2AA	2.f	2c	2f
+2GG	7	2g	.	2GG	2g	2B-	2G	2GG	.	2B-	2g
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2FF	6	2a	2F	2FF	2a	2c	2F	2FF	2f	2c	2a
+*	*	*	*	*	*	*^	*v	*v	*	*	*
+2F	.	2a	2A	2F	2a	2f	2c\	2F	2cc	2f	2a
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2E	6	2cc	2G	2E	2cc	2g	2c\	2E	2cc	2g	2cc
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2C	6	2a	2c	2C	2a	2e	2C	2cc	2e	2a
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2D	.	2f	2A	2D	2f	1d	2D	2a	2d	2f
+2BB-	6	2g	2G	2BB-	2g	.	2BB-	2dd	2d	2g
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1GG	.	1b-	2G	1GG	1b-	1d	1GG	1dd	1g	1b-
+.	.	.	2ryy@	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=
+2D	.	2a	2ryy	2D	2d	2f	2D	2dd	2f	2a
+=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!	=8:|!
+2AA	6	2cc	2ryy	2AA	2c	2f	2AA	2cc	2f	2cc
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2BB-	.	2dd	2B-	2BB-	2dd	2f	2BB-	2b-	2f	2dd
+2C	.	2cc	2G	2C	2cc	2e	2C	2g	2e	2cc
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*	*	*	*^	*	*	*
+2FF	.	2a	2F	2FF	2a	2c	2F	2FF	2f	2c	2a
+*	*	*	*	*	*	*	*v	*v	*	*	*
+2D	.	2f	2A	2D	2f	2f	2D	2a	2f	2f
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2AA	6	2a	2ryy@	2AA	2c	2.f	2AA	2cc	[2f	2a
+2C	4	2g	4c	2C	2g	.	2C	(4cc	(4f]	2g
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*	*^	*	*	*
+2FF	3	2f	2A	2F	2f	2c	2F	2FF	2a	2f	2f
+*	*	*	*	*	*	*	*v	*v	*	*	*
+2F	.	2a	2c	2F	2a	2f	2F	2cc	2f	2a
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2E	6 4 3	2a	2c#X	2E	2a	2g	2E	2cc#X	2g	2a
+[2D	.	2a	2d	[2D	2a	2f	[2D	2dd	2f	2a
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4D]	6 4 2	2g	4B-	4D]	2g	2e	(4D]	(4b-	2e	2g
+4C#X	5	.	2.A	4C#X	.	.	4C#X)	4a)	.	.
+2D	.	2f	.	2D	2f	[2d	2D	2a	[2d	2f
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2GG	6 5	1e	2ryy@	2GG	2B-	2d]	(2GG	(2b-	(2d]	1e
+2AA	#	.	4A	2AA	4ryy@	2c#X	2AA)	4a	2c#X)	.
+.	.	.	4G	.	4ryy@	.	.	4g)	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1D	.	1d	1F	1D	1d	1A	1D	1f	1d	1d
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2BBn	5	2f	1G	2BBn	2f	2d	2BBn	2g	2d	2f
+2C	.	2e	.	2C	2e	[2c	2C	2g	[2c	2e
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1GG	4	1d	2G	1GG	1d	2c]	1GG	(2g	(2c]	1d
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2C	n	2c	2E	2C	2c	2G	2C	2e	2c	2c
+2F	.	2c	2A	2F	2c	2A	2F	2f	2A	2c
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2D	.	2f	2A	2D	2f	2d	2D	2a	2d	2f
+2AA	6	2f	[2F	2AA	2f	2c	2AA	2cc	[2f	2f
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2BB-	6 5	2g	2F]	2BB-	2g	2d	2BB-	2dd	2f]	2g
+2C	.	2g	2E	2C	2g	2c	2C	2cc	2e	2g
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2F	.	2a	2F	2FF	2a	2c	2F	2a	2c	2a
+2E	5	2b-	2G	2E	2b-	2c	2E	2g	2c	2b-
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2F	.	2a	2F	2F	2a	2c	2F	2f	2c	2a
+2C#X	5	2g	2E	2C#X	2g	2A	2C#X	2e	2A	2g
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2D	.	2f	2F	2D	2f	2A	2D	2f	2A	2f
+2BB-	.	2d	2F	2BB-	2d	[2d	2BB-	2f	[2d	2d
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1AA	6 4	2f	2A	1AA	2f	2d]	1AA	(2a	(2d]	(2f
+.	5 #	2e	2G	.	2e	2c#X	.	2g)	2c#X)	2e)
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2D	.	2d	2F	2D	2d	2A	2D	2f	2d	2d
+*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/11/28
+!!!title: @{ONM}. @{OTL}

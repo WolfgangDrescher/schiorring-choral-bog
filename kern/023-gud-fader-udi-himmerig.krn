@@ -1,0 +1,96 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 23
+!!!OTL@@DA: Gud Fader udi Himmerig
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*	*	*	*	*	*	*Trd0c0	*	*
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*G:	*	*G:	*G:	*G:	*G:	*G:	*G:	*G:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*	*	*	*^	*^	*	*	*	*
+2E	.	2e	2E	2G	2e	2B	2E	2g	2B	2e
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*^	*	*	*	*
+2C	.	2e	2C	2G	2e	2ryy@	2c\	2C	2g	2c	2e
+*	*	*	*v	*v	*	*	*	*	*	*	*
+2AA	.	2e	2AA	2e	2c	2c/	2AA	2cc	2c	2e
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2GG	6	2b	2GG	2b	2B	2e\	2GG	2b	2e	2b
+*	*	*	*^	*	*	*	*	*	*	*
+2E	6	2cc	2E	2G	2cc	2ryy@	2e\	2E	2g	2e	2cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F#	6	2dd	2F#	2A	2dd	2ryy@	2d\	2F#	2a	2d	2dd
+*	*	*	*v	*v	*	*	*	*	*	*	*
+2D	6	(4b	2D	4b	2d	2f#\	2D	2dd	2f#	(4b
+.	5	4a)	.	4a	.	.	.	.	.	4a)
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2GG	.	2g	2GG	2g	2B	2d\	2GG	2b	2g	2g
+*	*	*	*^	*	*	*	*	*	*	*
+2D	.	2a	2D	2d	2a	2%5ryy@	2f#\	2D	2dd	2f#	2a
+*	*	*	*	*	*	*v	*v	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2G	.	2b	2G	1d	2b	2g	2G	2dd	2g	2b
+2G#X	5	2b	2G#X	.	2b	2e	2G#X	2dd	2e	2b
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2A	.	2cc	2A	2c	2cc	2e	2A	2cc	2e	2cc
+2F#	6	2dd	2F#	2A	2dd	[2a	2F#	2a	[2a	2dd
+*	*	*	*v	*v	*	*	*	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*	*^	*	*	*	*
+1G	9	1b	1G	1b	1d	2a\]	1G	1dd	(2a]	1b
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2GG	8	2b	2GG	2b	2d	2g\	2GG	2dd	2g	2b
+2E	.	2g	2E	2g	2B	2g\	2E	2b	2g	2g
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	.	2a	2D	2a	2d	2f#\	2D	2dd	2f#	2a
+*	*	*	*	*	*	*	*^	*	*	*
+2GG	8	2b	2GG	2b	2d	4g\	2G	2GG	2dd	(4g	2b
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4AA	#_	2e	4AA	2e	2c#X	2e\	4A	(4AA	2cc#X	2e	2e
+4GG	.	.	4GG	.	.	.	4G	4GG)	.	.	.
+2FF#	6	2a	2FF#	2a	2A	2d\	2F#	2FF#	2a	2d	2a
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2GG	6	2g	2GG	2g	2B	2e\	2G	2GG	2b	2e	2g
+*	*	*	*^	*	*	*	*	*	*	*	*
+2AA	#	2e	2AA	4A	2e	4ryy@	2c#X\	2A	2AA	(4a	2c#X	2e
+.	.	.	.	4G	.	4%5ryy@	.	.	.	4g)	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2D	.	2d	2D	2F#	2d	2A	2D	2D	2f#	2d	2d
+2GG	6	2e	2GG	2G	2e	2B	2G	2GG	2g	2B	2e
+*	*	*	*v	*v	*	*	*	*	*	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*	*	*	*	*	*^	*	*	*	*	*
+2EE	.	2g	2EE	2g	2B	2e\	2E	2EE	2b	2e	2g
+*	*	*	*	*	*	*	*v	*v	*	*	*
+2GG	6	2e	2GG	2e	2B	2e\	2GG	2b	2e	2e
+*	*	*	*	*	*v	*v	*	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*^	*	*	*	*	*	*
+2AA	6	2f#	2AA	2A	2f#	2c	2AA	2a	2c	2f#
+2BB	#	2d#X	2BB	2F#	2d#X	2B	2BB	2f#	2B	2d#X
+*	*	*	*v	*v	*	*	*	*	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*	*	*	*	*	*^	*^	*	*	*
+2E	.	1e	2E	1e	1G	1B\	(2E	2E	1g	1B	1e
+4BB	.	.	4BB	.	.	.	4B	4BB	.	.	.
+4GG	.	.	4GG	.	.	.	4G)	4GG	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2EE	.	2e	2EE	2e	2G	2B\	2E	2EE	2g	2B	2e
+*	*	*	*	*v	*v	*v	*	*	*	*	*
+*	*	*	*	*	*v	*v	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/11/28
+!!!title: @{ONM}. @{OTL}

@@ -1,0 +1,87 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 38
+!!!OTL@@DA: Hvo veed, hvor nær mig er min Ende
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*	*	*	*	*	*	*Trd0c0	*	*
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*	*	*	*^	*^	*	*	*	*
+*	*	*	*	*	*	*^	*	*	*	*
+2C	.	2cc	2c	2C	2cc	2g	2e\	2C	2ee	2g	2cc
+*	*	*	*	*	*	*v	*v	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1E	6	2cc	1c	1E	2cc	2g	2E	2cc	2g	2cc
+.	.	2g	.	.	2g	[2g	2E	2cc	[2g	2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2F	9	2a	2c	2F	2a	2g]	2F	2cc	2g]	2a
+2D	3	2a	2d	2D	2a	2f	2D	2dd	2f	2a
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2BB	6	2g	1G	2BB	2g	2d	2BB	2g	2d	2g
+2GG	7	2f	.	2GG	2f	2B	2GG	2g	2B	2f
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1C	.	2e	2G	2C	2e	2c	2C	2g	2c	2e
+.	.	2c	2E	2C	2c	2G	2C	2e	2G	2c
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2r	.	2r	2r	2r	2r	2r	2r	2r	2r	2r
+2C	.	2e	2G	2C	2e	2c	2C	2g	2c	2e
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2BB	5	2f	1G	2BB	2f	2d	2BB	2g	2d	2f
+[2C	.	2e	.	[2C	2e	2c	[2C	2g	2c	2e
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4C]	4	2d	4F#X	4C]	2d	4A	(4C]	(4f#X	(4A	2d
+4BB	 6_	.	[2.G	4BB	.	2.B	4BB)	4g)	4G)	.
+4E	.	2g	.	4E	2g	.	(4E	[2g	2B	2g
+4D	.	.	.	4D	.	.	4D)	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2C	6 5	2a	2G]	2C	2a	2e	2C	2g]	2e	2a
+2D	#	2a	4F#X	2D	2a	2d	2D	2f#X	(4d	2a
+.	.	.	4c	.	.	.	.	.	4c)	.
+=	=	=	=	=	=	=	=	=	=	=
+2GG	.	2g	2B	2G	2g	2d	2GG	2g	2B	2g
+=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!
+2G	.	2g	2B	2G	2g	2d	2G	2b	2d	2g
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2E	6	2cc	2c	2E	2cc	2g	2E	2cc	2g	2cc
+*	*	*	*	*	*	*^	*	*	*	*
+2D	6	2dd	2B	2D	2dd	2b	2f\	2D	2b	2f	2dd
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2C	.	2ee	2G	2C	2ee	2cc	2g\	2C	2cc	2g	2ee
+4F	5_	2cc	2A	4F	2cc	[2cc	2f\	(4F	[2cc	2a	2cc
+4E	.	.	.	4E	.	.	.	4E)	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2D	7	2ff	2d	2D	2ff	4cc]	2f\	2D	(4cc]	2f	2ff
+2C	6	2ee	2G	2C	2ee	[2cc	2g\	2C	[2cc	2g	2ee
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2GG	4	2dd	2G	2GG	2dd	4cc]	2g\	2GG	(4cc]	2g	2dd
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2GG#X	6	2ee	2ryy@	2GG#X	2e	2b	2GG#X	2b	2e	2ee
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2AA	.	2cc	2ryy@	2AA	2e	2a	2AA	2cc	2e	2cc
+[2F	.	2a	2c	[2F	2a	2f	[2F	2cc	2f	2a
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2F]	2	2g	2B	2F]	2g	2d	2F]	2b	2d	2g
+2E	6	2cc	2c	2E	2cc	2g	2E	2cc	2g	2cc
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2F	6 5	2cc	2A	2F	2cc	2.d	2F	2a	2d	2cc
+2G	.	2b	2G	2G	2b	.	2G	2g	2d	2b
+.	.	.	.	.	.	4f	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2C	.	2cc	2G	2C	2cc	2e	2C	2g	2e	2cc
+*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/11/28
+!!!title: @{ONM}. @{OTL}

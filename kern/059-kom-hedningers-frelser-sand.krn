@@ -1,0 +1,77 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 59
+!!!OTL@@DA: Kom Hedningers Frelſer ſand
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*	*	*	*	*	*	*Trd0c0	*	*
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*	*F:	*F:	*F:	*F:	*F:	*F:	*F:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*^	*^	*	*	*	*
+2G	.	2g	2B-	2G	2g	2d	2G	2b-	2d	2g
+2C#X	5	2g	2A	2C#X	2g	2e	2C#X	2a	2e	2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2D	.	2f	2A	2D	2f	2f	2D	2a	2f	2f
+2E	-r5	2b-	2cni	2E	2b-	2g	2E	[2cc	2g	2b-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4F#X	5	(4a	4c	4F#X	4a	4d	(4F#X	(4cc]	(4d	(4a
+4G	-	4g)	4B-	4G	4g	2g	4G)	4b-)	2g)	4g)
+2D	4	2a	2A	2D	2a	.	2D	2a	.	2a
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1GG	#	1g	1ryy	1GG	1B-	1d	1GG	1b-	1g	1g
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2E-X	.	2g	2B-	2E-X	2g	2e-X	2E-X	2b-	2g	2g
+2D	6	2b-	2B-	2D	2b-	2f	2D	2b-	2f	2b-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2C	6 -	2cc	2A	2C	2cc	2e-X	2C	2a	2e-X	2cc
+*	*	*	*	*	*	*^	*	*	*	*
+2D	6	2b-	2B-	2D	2b-	2f	2d\	2D	2b-	2f	2b-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2AA	-r5	2cc	2F	2AA	2cc	2f	2e-X\	2AA	2ee-X	2f	2cc
+2BB-	8	2dd	2F	2BB-	2dd	4f	2d\	2BB-	2dd	(4f	2dd
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1E-X	-7	1b-	1E-X	1EE-X	1b-	1g	1e-X\	1E-X	1ee-X	1g	1b-
+*	*	*	*	*	*	*v	*v	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	6	2b-	1ryy	2D	2f	2b-	2D	2b-	2f	2b-
+2C	6 -	2cc	.	2C	2e-X	2a	2C	2a	2e-X	2cc
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2BB-	-7	2dd	1ryy	2BB-	2f	2a-X	2BB-	2a-X	2f	2dd
+2E-X	.	2b-	.	2E-X	2e-X	2g	2E-X	2g	2g	2b-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2C	-	(4cc	4ryy@	2C	2e-X	2.g	2C	2ee-X	[2g	(4cc
+.	.	4b-)	4ryy@	.	.	.	.	.	.	4b-)
+2D	4	2a	2Ani	2D	2ani	.	2D	2ani	(4g]	2a
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1GG	#	1g	1ryy	1GG	1B-	1d	1GG	1b-	1g	1g
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2BB-	5	2g	1ryy	2BB-	2d	2f	2BB-	2dd	2f	2g
+2C	-	2g	.	2C	[2c	2e-X	2C	[2cc	2e-X	2g
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2D	7	2f	2ryy@	2D	2c]	2f	2D	2cc]	2d	2f
+2G	.	2b-	2B-	2G	2b-	2d	2G	2b-	2d	2b-
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4C	6 5 -	(4a	2c	4C	4a	4d-X	(4C	2cc	(4d-X	(4a
+4E-X	6	4g)	.	4E-X	4g	2g	4E-X)	.	2g)	4g)
+2D	4	2a	2A	2Dni	2a	.	2D	2a	.	2a
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1GG	#	1g	1ryy	1GG	1B-	1dni	1GG	1b-	1g	1g
+*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!RDF**kern: i = editorial accidental
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/11/28
+!!!title: @{ONM}. @{OTL}
