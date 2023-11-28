@@ -145,6 +145,8 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
 !!!RDF**kern: i = editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!AGN: chorale
 !!!EED: Derek Remeš
 !!!EED2: Victor Phan
