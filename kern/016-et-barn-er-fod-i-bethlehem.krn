@@ -7,62 +7,61 @@
 *part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
 *staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
-*	*	*	*	*	*	*Trd0c0	*	*
 *k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *F:	*	*F:	*F:	*F:	*F:	*F:	*F:	*F:
 *M3/2	*	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2
 *	*	*	*^	*^	*	*	*	*
-2GG	.	2g	2ryy	2GG	2B-	2d	2GG	2b-	2d	2g
+2GG	.	2g	2ryy	2GG	2B-	2d	2GG	2B-	2d	2g
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-1BB-	6	1g	1.ryy	1BB-	1d	1d	1BB-	1dd	1d	1g
-2C	.	2g	.	2C	2c	2e	2C	2cc	2e	2g
+1BB-	6	1g	1.ryy	1BB-	1d	1d	1BB-	1d	1d	1g
+2C	.	2g	.	2C	2c	2e	2C	2c	2e	2g
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1F	.	1a	1.ryy	1F	1c	1f	1F	1cc	1f	1a
-2D	.	2a	.	2D	2d	2f	2D	2dd	2f	2a
+1F	.	1a	1.ryy	1F	1c	1f	1F	1c	1f	1a
+2D	.	2a	.	2D	2d	2f	2D	2d	2f	2a
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-1BB-	.	1b-	1ryy@	1BB-	1d	1f	1BB-	1dd	1f	1b-
-2C	.	2g	2c	2C	2g	2e	2C	2cc	2e	2g
+1BB-	.	1b-	1ryy@	1BB-	1d	1f	1BB-	1d	1f	1b-
+2C	.	2g	2c	2C	2g	2e	2C	2c	2e	2g
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-1F	.	1f	1A	1F	1f	1c	1F	1a	1f	1f
-2E-X	2	2f	2A	2E-X	2f	2c	2E-X	2a	2c	2f
+1F	.	1f	1A	1F	1f	1c	1F	1A	1f	1f
+2E-X	2	2f	2A	2E-X	2f	2c	2E-X	2A	2c	2f
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2D	6	1b-	2B-	2D	1b-	1f	(2D	(2b-	1f	1b-
-2BB-	.	.	2ryy@	2BB-	.	.	2BB-)	2dd)	.	.
-2F	.	2a	2ryy@	2F	2c	2f	2F	2cc	2f	2a
+2D	6	1b-	2B-	2D	1b-	1f	(2D	(2B-	1f	1b-
+2BB-	.	.	2ryy@	2BB-	.	.	2BB-)	2d)	.	.
+2F	.	2a	2ryy@	2F	2c	2f	2F	2c	2f	2a
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-1BB-	.	1b-	1.ryy	1BB-	1d	1f	1BB-	1dd	1f	1b-
-2BB-	.	2b-	.	2BB-	2d	2f	2BB-	2dd	2f	2b-
+1BB-	.	1b-	1.ryy	1BB-	1d	1f	1BB-	1d	1f	1b-
+2BB-	.	2b-	.	2BB-	2d	2f	2BB-	2d	2f	2b-
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-1D	6	1b-	1ryy@	1D	1d	1f	1D	1dd	1f	1b-
-2E	5	2b-	2c	2E	2b-	2g	2E	2cc	2g	2b-
+1D	6	1b-	1ryy@	1D	1d	1f	1D	1d	1f	1b-
+2E	5	2b-	2c	2E	2b-	2g	2E	2c	2g	2b-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1F	.	1a	1c	1F	1a	1f	1F	1cc	1f	1a
-2D	7 #	2a	2c	2D	2a	2f#X	2D	2cc	2f#X	2a
+1F	.	1a	1c	1F	1a	1f	1F	1c	1f	1a
+2D	7 #	2a	2c	2D	2a	2f#X	2D	2c	2f#X	2a
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2E-X	.	1g	2B-	2E-X	1g	2g	(2E-X	(2b-	(2g	1g
-2C	6 5 -	.	1A	2C	.	2e-X	2C)	2a)	2e-X)	.
-2D	#	2f#X	.	2D	2f#X	2d	2D	2a	2d	2f#X
+2E-X	.	1g	2B-	2E-X	1g	2g	(2E-X	(2B-	(2g	1g
+2C	6 5 -	.	1A	2C	.	2e-X	2C)	2A)	2e-X)	.
+2D	#	2f#X	.	2D	2f#X	2d	2D	2A	2d	2f#X
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 *	*	*	*	*	*	*^	*	*	*	*
-1GG	.	1g	1G	1GG	1g	1d	1B-\	1GG	1b-	1d	1g
+1GG	.	1g	1G	1GG	1g	1d	1B-\	1GG	1B-	1d	1g
 *	*	*	*	*	*	*v	*v	*^	*	*	*
-2B-	6	2g	2G	2BB-	2g	2d	2B-	2BB-	2g	2d	2g
+2B-	6	2g	2G	2BB-	2g	2d	2B-	2BB-	2G	2d	2g
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1A	6	1f#X	1A	1AA	1f#X	1c	1A	2AA	1a	1c	1f#X
+1A	6	1f#X	1A	1AA	1f#X	1c	1A	2AA	1A	1c	1f#X
 .	.	.	.	.	.	.	.	2A	.	.	.
 *	*	*	*	*	*	*^	*	*	*	*	*
-2G	.	2g	2G	2GG	2g	2d	2B-\	2G	2G	2b-	2d	2g
+2G	.	2g	2G	2GG	2g	2d	2B-\	2G	2G	2B-	2d	2g
 *	*	*	*	*	*	*	*	*v	*v	*	*	*
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-2F#X	6	1a	1A	2F#X	1a	2d	1.r	(2F#X	1a	(2d	1a
+2F#X	6	1a	1A	2F#X	1a	2d	1.r	(2F#X	1A	(2d	1a
 2D	#	.	.	2D	.	2f#X	.	2D)	.	2f#X)	.
-2C	4	2a	2ryy@	2C	2d	2f#	.	2C	2dd	2f#	2a
+2C	4	2a	2ryy@	2C	2d	2f#	.	2C	2d	2f#	2a
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-2BB-	6	1g	2ryy@	2BB-	2d	2g	1.r	(2BB-	(2dd	(2g	1g
-2GG	.	.	2ryy@	2GG	2B-	2d	.	2GG)	2b-)	2d)	.
-2D	#	2f#X	2A	2D	2f#X	2d	.	2D	2a	2d	2f#X
+2BB-	6	1g	2ryy@	2BB-	2d	2g	1.r	(2BB-	(2d	(2g	1g
+2GG	.	.	2ryy@	2GG	2B-	2d	.	2GG)	2B-)	2d)	.
+2D	#	2f#X	2A	2D	2f#X	2d	.	2D	2A	2d	2f#X
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-1GG	.	1g	1G	1GG	1g	1d	1B-\	1GG	1b-	1d	1g
+1GG	.	1g	1G	1GG	1g	1d	1B-\	1GG	1B-	1d	1g
 *	*	*	*v	*v	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -73,5 +72,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/11/28
+!!!EEV: 2023/11/29
 !!!title: @{ONM}. @{OTL}
