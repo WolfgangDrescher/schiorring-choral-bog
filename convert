@@ -63,6 +63,8 @@ for file in "${args[0]}"/*.{mxl,xml,musicxml}; do
             cat <(echo -e -n "!!!CDT: 1743-1798\n") - | \
             cat <(echo -e -n "!!!COM: Schiørring, Niels\n") - | \
             sed "s/!!!system-decoration:.*/!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}/g" | \
+            cat - <(echo -e -n "!!!RDF**kern: > = above\n") | \
+            cat - <(echo -e -n "!!!RDF**kern: < = below\n") | \
             cat - <(echo -e -n "!!!AGN: chorale\n") | \
             cat - <(echo -e -n "!!!EED: Derek Remeš\n") | \
             cat - <(echo -e -n "!!!EED2: Victor Phan\n") | \
