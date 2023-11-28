@@ -1,0 +1,13 @@
+{
+    "name": "wolfgang/schiorring-choral-bog",
+    "require": {
+        "symfony/string": "^6.3",
+        "symfony/translation-contracts": "^3.4"
+    },
+    "authors": [
+        {
+            "name": "Wolfgang Drescher",
+            "email": "drescher.wolfgang+git@gmail.com"
+        }
+    ]
+}
