@@ -19,8 +19,12 @@ pad_with_zeros() {
 swap_lines() {
     local string=${1:-$(</dev/stdin)}
     # declare string=${*:-$(</dev/stdin)}
-    local swapped_string=$(echo -e "$string" | awk 'NR==1{first=$0; next} NR==2{print $0 ORS first; next} {print}')
-    echo -e "$swapped_string"
+    if (( $(grep -c . <<<"$string") > 1 )); then
+        local swapped_string=$(echo -e "$string" | awk 'NR==1{first=$0; next} NR==2{print $0 ORS first; next} {print}')
+        echo -e "$swapped_string"
+    else
+        echo -e "$string"
+    fi
 }
 
 mm_line="*MM180\t*\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180"
