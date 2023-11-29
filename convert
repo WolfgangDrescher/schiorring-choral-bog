@@ -69,7 +69,7 @@ convert_file() {
             cat - <(echo -e -n "!!!AGN: chorale\n") | \
             cat - <(echo -e -n "!!!EED: Derek Remeš\n") | \
             cat - <(echo -e -n "!!!EED2: Victor Phan\n") | \
-            cat - <(echo -e -n "!!!END: $(date '+%Y/%m/%d')\n") | \
+            cat - <(echo -e -n "!!!END: 2023/11/28\n") | \
             cat - <(echo -e -n "!!!ENC: Wolfgang Drescher\n") | \
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
