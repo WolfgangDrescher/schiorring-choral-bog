@@ -26,15 +26,15 @@
 .	.	.	.	.	8cniJ	8	.	.	8cJ)	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2E	2G#X	2E	2e	2e	2Bni	.	2E	2G#X	2B	2e
-2AA	4ryy@	2AA	2ccni	2e	[2a	.	2AA	2e	(4c	2cc
-.	4ryy@	.	.	.	.	.	.	.	[4a)	.
+2AA	4ryy	2AA	2ccni	2e	[2a	.	2AA	2e	(4c	2cc
+.	4ryy	.	.	.	.	.	.	.	[4a)	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2E	1ryy	2E	2b	2e	4a]	.	2E	2e	(4a]	2b
 *	*	*	*	*v	*v	*	*	*	*	*
 2F	.	2F	2a	2c	.	2F	2c	.	2a
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 *	*	*	*	*^	*	*	*	*	*
-2BB	2ryy@	2BB	2g	2d	2d	.	2BB	2d	2d	2g
+2BB	2ryy	2BB	2g	2d	2d	.	2BB	2d	2d	2g
 2C	2G	2C	2e	2e	2c	.	2C	2G	2c	2e
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2F	2A	2F	2f	2f	2d	.	2F	2A	2d	2f
@@ -56,7 +56,7 @@
 *	*	*	*	*	*^	*	*	*	*	*
 2GG	2G	2GG	2g	2g	2d	2B\	.	2GG	2B	2g	2g
 *	*	*	*	*	*v	*v	*	*	*	*	*
-2GG	2ryy@	2GG	2g	2B	[2d	.	2GG	2B	[2d	2g
+2GG	2ryy	2GG	2g	2B	[2d	.	2GG	2B	[2d	2g
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2C	2G	2C	2e	2e	2d]	.	2C	2G	2d]	2e
 2AA	2A	2AA	2e	2e	2c	.	2AA	2A	2c	2e
@@ -94,7 +94,7 @@
 2GG	2G	2GG	.	.	2B	.	2GG)	2G)	2B)	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2C	2G	2C	2e	2e	2c	.	2C	2G	2c	2e
-2C	2ryy@	2C	2cc	2e	2g	.	2C	2e	2g	2cc
+2C	2ryy	2C	2cc	2e	2g	.	2C	2e	2g	2cc
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2GG	1ryy	2GG	2b	2d	4g	.	2GG	2d	(4g	2b
 2AA	.	2AA	2a	2c	2e	.	2AA	2c	2e	2a

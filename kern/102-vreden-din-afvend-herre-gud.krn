@@ -37,8 +37,8 @@
 2FF	.	2f	2F	2FF	2f	2c	2A\	2F	2FF	2A	2f	2f
 *	*	*	*	*	*	*v	*v	*	*	*	*	*
 *	*	*	*	*	*	*	*v	*v	*	*	*
-4F	.	2a	4ryy@	4F	2c	2f	(4F	2c	2f	2a
-4E-	.	.	4ryy@	4E-Xi	.	.	4E-)	.	.	.
+4F	.	2a	4ryy	4F	2c	2f	(4F	2c	2f	2a
+4E-	.	.	4ryy	4E-Xi	.	.	4E-)	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2D	6	2b-	2B-	2D	2b-	2f	2D	2B-	2f	2b-
 2C	6	2cc	2A	2C	2cc	2e-	2C	2A	2e-	2cc
@@ -61,7 +61,7 @@
 2En	5	2b-	2c	2En	2b-	2g	2En	2c	2g	2b-
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2F	.	2a	2c	2F	2a	2f	2F	2c	2f	2a
-2C#X	7 5	2b-	2ryy@	2C#X	2en	2g	2C#X	2e	2g	2b-
+2C#X	7 5	2b-	2ryy	2C#X	2en	2g	2C#X	2e	2g	2b-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2D	5	2a	2A	2D	2a	2f	2D	2A	2f	2a
 2D	6	2f	2B-	2D	2f	2f	2D	2B-	2f	2f
@@ -80,7 +80,7 @@
 *	*	*	*	*	*	*	*^	*	*	*
 2BB-	6	2dd	.	2BB-	2d	2g	2B-	2BB-	2B-	2g	2dd
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2FF#X	-7 5	2cc	2ryy@	2FF#X	2e-	2a	2F#X	2FF#X	2A	2e-	2cc
+2FF#X	-7 5	2cc	2ryy	2FF#X	2e-	2a	2F#X	2FF#X	2A	2e-	2cc
 *	*	*	*	*	*	*^	*	*	*	*	*
 2GG	.	2b-	[2G	2GG	2b-	2g	2d\	2G	2GG	[2G	2d	2b-
 *	*	*	*	*	*	*	*	*v	*v	*	*	*

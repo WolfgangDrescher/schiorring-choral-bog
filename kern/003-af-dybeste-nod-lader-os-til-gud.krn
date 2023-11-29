@@ -35,7 +35,7 @@
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2BB	6	2g	2G	2BB	2g	2d	1r	2BB	1r	2B	2d	2g
 4AA	6	(4f#	4A	4AA	4f#	4c	.	(4AA	.	(4c	(4c	(4f#
-4GG	.	4g)	4ryy@	4GG	4B	4d	.	4GG)	.	4B)	4d)	4g)
+4GG	.	4g)	4ryy	4GG	4B	4d	.	4GG)	.	4B)	4d)	4g)
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2C	6	1a	4A	2C	1a	2e	1r	(2C	1r	(4A	(2e	1a
 2D	5	.	2F#	2D	.	2d	.	2D)	.	2F#)	4d	.
@@ -51,10 +51,10 @@
 4BB	.	.	.	.	.	.	4BB)	.	.	.	.
 2AA	.	2cc	.	2AA	2e	2a	2AA	.	2e	2a	2cc
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-2BB	#	2b	2ryy@	2BB	2d#X	2f#	2BB	1r	2d#X	2f#	2b
+2BB	#	2b	2ryy	2BB	2d#X	2f#	2BB	1r	2d#X	2f#	2b
 2E	.	2g	2B	2E	2g	2e	2E	.	2B	2e	2g
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-2AA	6	2a	2ryy@	2AA	2c	2f#	2AA	1r	2c	2f#	2a
+2AA	6	2a	2ryy	2AA	2c	2f#	2AA	1r	2c	2f#	2a
 2BB	#	2f#	4B	2BB	2f#	2d#X	2BB	.	(4B	2d#X	2f#
 .	.	.	4A	.	.	.	.	.	4A)	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
@@ -82,7 +82,7 @@
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2BB	6	2g	2G	2BB	2g	2d	2BB	2B	2d	2g
 4AA	6	(4f#	4A	4AA	4f#	4c	(4AA	(4c	(4c	(4f#
-4GG	.	4g)	4ryy@	4GG	4B	4d	4GG)	4B)	4d)	4g)
+4GG	.	4g)	4ryy	4GG	4B	4d	4GG)	4B)	4d)	4g)
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2C	6	1a	4A	2C	1a	2e	(2C	(4A	(2e	1a
 2D	5	.	2F#	2D	.	2d	2D)	2F#)	4d	.

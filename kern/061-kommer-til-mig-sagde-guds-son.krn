@@ -18,9 +18,9 @@
 2E-X	.	2g	2B-	2E-X	2g	2e-X	2E-X	2B-	2e-X	2g
 2C	-	2g	2c	2C	2g	2e-	2C	2c	2e-	2g
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-2BB-	6	2.dd	2ryy@	2BB-	2d	2g	2BB-	2d	2g	2.dd
+2BB-	6	2.dd	2ryy	2BB-	2d	2g	2BB-	2d	2g	2.dd
 *	*	*	*	*	*	*^	*	*	*	*
-2D	#	.	2A	2D	4ryy@	2f#X	2d\	2D	2A	2f#X	.
+2D	#	.	2A	2D	4ryy	2f#X	2d\	2D	2A	2f#X	.
 .	.	4cc	.	.	4cc	.	.	.	.	.	4cc
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *	*	*	*	*	*	*	*	*^	*	*	*
@@ -28,7 +28,7 @@
 2GG	.	2b-	2B-	2G	2b-	2g	2d\	2G	2GG	2G	2d	2b-
 *	*	*	*	*	*	*v	*v	*	*	*	*	*
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2D	#	2a	2ryy@	2D	2d	2f#X	2D	1r	2F#X	2d	2a
+2D	#	2a	2ryy	2D	2d	2f#X	2D	1r	2F#X	2d	2a
 2E-X	.	2g	2B-	2E-X	2g	2g	2E-X	.	2B-	2g	2g
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2Eni	5	2b-	2c	2Eni	2b-	2g	2Eni	1r	2c	2g	2b-
@@ -41,7 +41,7 @@
 2AA	7 -r5	2cc	1ryy	2AA	4e-X	4g]	2AA	1r	(4e-X	(4g]	2cc
 2GG	6	2b-	.	2GG	2d	[2g	2GG	.	2d	[2g	2b-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2D	4	2a	2ryy@	2D	2d	4g]	2D	1r	2d	(4g]	2a
+2D	4	2a	2ryy	2D	2d	4g]	2D	1r	2d	(4g]	2a
 2G	#	2b-	2d	2G	2b-	2g	2G	.	2d	2g	2b-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2B-	6	2g	2d	2B-	2g	2g	2B-	1r	2d	2g	2g
@@ -53,8 +53,8 @@
 .	5	4b-	.	.	4b-	.	.	.	.	.	4b-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2F	9	2a	2c	2F	2a	4g]	2F)	1r	2c]	(4g]	2a)
-4D	6	2b-	4ryy@	4D	2d	[2f	(4D	.	(4f	[2f	2b-
-4BB-	.	.	4ryy@	4BB-	.	.	4BB-)	.	4d)	.	.
+4D	6	2b-	4ryy	4D	2d	[2f	(4D	.	(4f	[2f	2b-
+4BB-	.	.	4ryy	4BB-	.	.	4BB-)	.	4d)	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 1C	4	1g	4G	1C	1g	2f]	1C	1r	1c	(2f]	1g
 .	.	.	4A	.	.	.	.	.	.	.	.
@@ -67,14 +67,14 @@
 2D	6	2b-	2B-	2D	2b-	2f	2D	2B-	2f	2b-
 2C	6 -	2a	2c	2C	2a	2e-X	2C	2c	2e-X	2a
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2BB-	.	2b-	2ryy@	2BB-	2d	2f	2BB-	2d	2f	2b-
+2BB-	.	2b-	2ryy	2BB-	2d	2f	2BB-	2d	2f	2b-
 2B-	6	2dd	2d	2B-	2dd	2g	2B-	2d	2g	2dd
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2F#X	5	2cc	1d	2F#X	2cc	2a	2F#X	2d	2a	2cc
 2G	.	2b-	.	2G	2b-	2g	2G	2d	2g	2b-
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2D	#	2a	2d	2D	2a	2f#X	2D	2d	2f#X	2f
-2B-	6	2g	2ryy@	2B-	2d	[2g	2B-	2d	2g	2g
+2B-	6	2g	2ryy	2B-	2d	[2g	2B-	2d	2g	2g
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2C#X	7 5	2b-	1ryy	2C#X	2e	2g]	2C#X	2e	2g	2b-
 2D	#	2a	.	2D	2d	2f#X	2D	2d	2f#X	2a
