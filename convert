@@ -28,6 +28,7 @@ swap_lines() {
 }
 
 mm_line="*MM180\t*\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180"
+mclef_line="*mclefF4\t*\t*mclefG2\t*mclefF4\t*mclefG2\t*mclefF4\t*mclefGv2\t*mclefG2\t*mclefG2"
 
 convert_file() {
     local file="$1"
@@ -78,6 +79,7 @@ convert_file() {
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
             awk '/^\*met/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1' | \
+            awk '/^\*clef/ && !flag { print; print "'"$mclef_line"'"; flag=1; next } 1' | \
             sed '/^!!!OTL/ s/'\''/’/' | \
             sed "s/yy@/yy/" | \
             grep -v '^*I' | \
