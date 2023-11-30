@@ -7,6 +7,7 @@
 *part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
 *staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*mclefF4	*	*mclefG2	*mclefF4	*mclefG2	*mclefF4	*mclefGv2	*mclefG2	*mclefG2
 *k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *G:	*	*G:	*G:	*G:	*G:	*G:	*G:	*G:
 *M3/2	*	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2
@@ -87,5 +88,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/11/29
+!!!EEV: 2023/11/30
 !!!title: @{ONM}. @{OTL}
