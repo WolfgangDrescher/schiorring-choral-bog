@@ -52,7 +52,7 @@ convert_file() {
         kern_filename=$(php slugify.php "$(echo "$filename" | sed "s/Schiorring - //")")
         num=$(echo "$kern_filename" | grep -o '^[0-9]\+' | sed 's/^0*//')
         padded_num=$(pad_with_zeros "$num")
-        kern_filename="${padded_num}$(echo "$kern_filename" | sed 's/[0-9]*//g')"
+        kern_filename="${padded_num}$(echo "$kern_filename" | sed 's/^[0-9]*//')"
         kern_filename="$kern_filename.krn"
         echo "$kern_filename"
         musicxml2hum "$xml_file" | \
