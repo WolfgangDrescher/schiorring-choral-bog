@@ -26,30 +26,30 @@
 *	*	*	*	*	*	*v	*v	*	*	*	*
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 2E	9	2g	2.B	2E	2g	4f#]	2E	2B	(4f#]	2g
-.	.	.	.	.	.	2e	.	.	2e)	.
+.	8	.	.	.	.	2e	.	.	2e)	.
 2BB	4	2f#	.	2BB	2f#	.	2BB	(4B	.	2f#
-.	.	.	4A	.	.	4d#X	.	4A)	4d#X	.
+.	#	.	4A	.	.	4d#X	.	4A)	4d#X	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2E	#	2e	2G	2E	2e	2B	2E	2G	2e	2e
+2E	.	2e	2G	2E	2e	2B	2E	2G	2e	2e
 2E	.	2e	2G	2E	2e	2B	2E	2G	2B	2e
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2D	6	2b	2.B	2D	2b	2f#	2D	2.B	2f#	2b
 2C#X	7	2cc#X	.	2C#X	2cc#X	2e	2C#X	.	2e	2cc#X
-.	.	.	4A#X	.	.	.	.	4A#X	.	.
+.	#6\	.	4A#X	.	.	.	.	4A#X	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2BB	6	2dd	2.B	2BB	2dd	1f#	2BB	[2B	2f#	2dd
+2BB	.	2dd	2.B	2BB	2dd	1f#	2BB	[2B	2f#	2dd
 2F#	4	2cc#X	.	2F#	2cc#X	.	2F#	(4B]	2f#	2cc#X
-.	.	.	4A#X	.	.	.	.	4A#X)	.	.
+.	#	.	4A#X	.	.	.	.	4A#X)	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4G	#	2b	4B	4G	2b	4d	(4G	(4B	(4d	2b
-4E	6 5	.	4c#X	4E	.	4g	4E)	4c#X)	4g)	.
+4G	.	2b	4B	4G	2b	4d	(4G	(4B	(4d	2b
+4E	#6\ 5	.	4c#X	4E	.	4g	4E)	4c#X)	4g)	.
 2F#	#	2a#X	2c#	2F#	2a#X	2f#	2F#	2c#	2f#	2a#X
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2BB	.	2b	2ryy	2BB	2d	2f#	2BB	2d	2f#	2b
-2Ani	4	2b	2d#X	2Ani	2b	2f#	2A	2d#X	2f#	2b
+2Ani	#4|	2b	2d#X	2Ani	2b	2f#	2A	2d#X	2f#	2b
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2G#X	6	2ee	1e	2G#X	2ee	2b	2G#X	2e	2b	2ee
-2Gn	4	2cc#X	.	2Gn	2cc#X	2a	2Gn	2e	2a	2cc#X
+2Gn	#4|	2cc#X	.	2Gn	2cc#X	2a	2Gn	2e	2a	2cc#X
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 2F#	6	2dd	1d	2F#	2dd	2a	2F#	2d	2a	2dd
 2G	.	2b	.	2G	2b	2g	2G	2d	2g	2b
@@ -65,20 +65,20 @@
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2A	6 5 n	2f#	2c	2A	2f#	2.e	2A	2c	2.e	2f#
 2F#	7 5	2a	2A	2F#	2a	.	2F#	2c	.	2a
-.	.	.	.	.	.	4d#X	.	.	4d#X	.
+.	#6\ n	.	.	.	.	4d#X	.	.	4d#X	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 4G	6	2g	2B	4G	2g	2.e	(4G	2B	[2e	2g
 4A	.	.	.	4A	.	.	4A)	.	.	.
 2B	4	2f#	2B	2B	2f#	.	2B	2B	(4e]	2f#
-.	.	.	.	.	.	4d#X	.	.	4d#X)	.
+.	#	.	.	.	.	4d#X	.	.	4d#X)	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-2E	#	2e	2G	2E	2e	2B	2E	2G	2e	2e
+2E	.	2e	2G	2E	2e	2B	2E	2G	2e	2e
 2AA#X	7 5	2e	2G	2AA#X	2e	2c#X	2AA#X	2G	2c#X	2e
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2BB	8 #	2d#X	4F#	2BB	2d#X	2B	2BB	(4F#	2B	2d#X
-.	.	.	2Ani	.	.	.	.	2A)	.	.
+.	7	.	2Ani	.	.	.	.	2A)	.	.
 2C	6	2e	.	2Cni	2e	2e	2C	.	2e	2e
-.	.	.	4G	.	.	.	.	4G	.	.
+.	5	.	4G	.	.	.	.	4G	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2BB	6 4	2g	2B	2BB	2g	2e	2BB	2B	2e	2g
 2AA	6 n	2a	2ryy	2AA	2c	2f#	2AA	2c	2f#	2a
@@ -100,5 +100,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/06
+!!!EEV: 2023/12/08
 !!!title: @{ONM}. @{OTL}

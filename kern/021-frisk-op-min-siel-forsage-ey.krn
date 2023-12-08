@@ -62,8 +62,8 @@
 2E	6	2cc	[2c	2E	2cc	2g	.	2E	[2c	2g	2cc
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1D	7 n	1dd	2c]	1D	1dd	1fn	1.r	1D	(2c]	1fn	1dd
-.	.	.	2B	.	.	.	.	.	2B)	.	.
-2C	6	2ee	2G	2C	2ee	2g	.	2C	2c	2g	2ee
+.	6	.	2B	.	.	.	.	.	2B)	.	.
+2C	.	2ee	2G	2C	2ee	2g	.	2C	2c	2g	2ee
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 1AA	7	1.cc	1.A	1AA	1.cc	1g	1.r	(1AA	(1c	(1g	1.cc
 2D	7	.	.	2D	.	2f#Xi	.	2D)	2d)	2f#Xi)	.
@@ -83,10 +83,10 @@
 .	6	2cc	.	.	2cc	.	.	2e	2g	2cc
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 1D	.	1dd	1A	1D	1dd	1f#	1D	1f#	1a	1dd
-2D	4	2b	2G#X	2D	2b	2e	2D	2e	2g#X	2b
+2D	#4|	2b	2G#X	2D	2b	2e	2D	2e	2g#X	2b
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 1C	6	1ee	1A	1C	1ee	1.e	1C	1e	1a	1ee
-2BB	6	2dd	2G#X	2BB	2dd	.	2BB	2e	2g#X	2dd
+2BB	#6\	2dd	2G#X	2BB	2dd	.	2BB	2e	2g#X	2dd
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 2AA	.	1cc	1A	2AA	1cc	2e	(2AA	(2e	(2a	1cc
 2D	7	.	.	2D	.	2f#	2D)	2d)	2f#)	.
@@ -110,5 +110,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/06
+!!!EEV: 2023/12/08
 !!!title: @{ONM}. @{OTL}

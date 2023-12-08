@@ -22,9 +22,9 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1D	6	1b-	1B-	1D	1b-	1f	1D	1B-	1f	1b-
 2BB-	8	2dd	4B-	2BB-	2dd	2f	2BB-	(4B-	2f	2dd
-.	.	.	4A-X	.	.	.	.	4A-X)	.	.
+.	-7	.	4A-X	.	.	.	.	4A-X)	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-1E-X	-7	1b-	1G	1E-X	1b-	1e-X	1E-X	1G	1g	1b-
+1E-X	.	1b-	1G	1E-X	1b-	1e-X	1E-X	1G	1g	1b-
 2C	6 -	2cc	2Ani	2C	2cc	2e-	2C	2e-X	2a	2cc
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 1BB-	.	1dd	1B-	1BB-	1dd	2f	1BB-	1f	1b-	1dd
@@ -78,5 +78,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/06
+!!!EEV: 2023/12/08
 !!!title: @{ONM}. @{OTL}

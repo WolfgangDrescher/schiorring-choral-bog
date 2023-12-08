@@ -16,12 +16,12 @@
 2A	.	2e	2A	2A	2e	2c	2A	2A	2c	2e
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 2G	6	2e	2B	2G	2e	2e	2G	2B	2e	2e
-2F	6	2a	2A	2F	2a	2d#X	2F	2A	2d#X	2a
+2F	#6\	2a	2A	2F	2a	2d#X	2F	2A	2d#X	2a
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 2E	#	2g#X	2B	2E	2g#X	2e	2E	2B	2e	2g#X
 2C	6	2a	2c	2C	2a	2e	2C	2A	2e	2a
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2BB	6	2b	2ryy	2BB	2d	2g#X	2BB	2G#X	2d	2b
+2BB	#6\	2b	2ryy	2BB	2d	2g#X	2BB	2G#X	2d	2b
 *	*	*	*	*	*	*^	*	*	*	*
 2AA	.	2cc	2E	2AA	2cc	2a	2e\	2AA	2A	2e	2cc
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
@@ -35,10 +35,10 @@
 *	*	*	*	*	*	*v	*v	*	*	*	*	*
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 1GG	4	1d	2G	1GG	1d	2c]	1G	1GG	(2G	(2c]	1d
-.	.	.	2F	.	.	2B	.	.	2F)	2B)	.
+.	3	.	2F	.	.	2B	.	.	2F)	2B)	.
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2C	3	2c	2E	2C	2c	2G	2C	2E	2c	2c
+2C	.	2c	2E	2C	2c	2G	2C	2E	2c	2c
 *	*	*	*	*	*	*^	*	*	*	*
 2C	.	2ee	2G	2C	2ee	[2cc	2g\	2C	[2c	2g	2ee
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -59,12 +59,12 @@
 2BB	#	2f#	2A	.	2f#	2d#X	2BB	2A	2d#X	2f#
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2E	.	2e	2G	2E	2e	2B	2E	2G	2e	2e
-2D	4	2e	2G#X	2Dni	2e	2B	2D	2G#X	2B	2e
+2D	#4|	2e	2G#X	2Dni	2e	2B	2D	2G#X	2B	2e
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2C#X	6	2e	2A	2C#X	2e	2e	2C#X	2A	2A	2e
 2Cn	6	2a	2A	2Cn	2a	2e	2Cn	2A	2e	2a
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2BB	6	2g#X	2B	2BB	2g#X	2d	2BB	2B	2d	2g#X
+2BB	#6\	2g#X	2B	2BB	2g#X	2d	2BB	2B	2d	2g#X
 2AA	.	2a	2ryy	2AA	2c	2e	2AA	2c	2e	2a
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2E	#	2b	2ryy	2E	2e	2g#X	2E	2G#X	2e	2b
@@ -95,7 +95,7 @@
 2E	#	2b	2B	2E	2b	2g#X	2E	2G#X	2e	2b
 2C	6	2a	2c	2C	2a	[2e	2C	2A	2e	2a
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-2BB	6	2g#X	1ryy	2BB	2d	2e]	2BB	2B	2d	2g#X
+2BB	#6\	2g#X	1ryy	2BB	2d	2e]	2BB	2B	2d	2g#X
 2AA	.	2a	.	2AA	2c	2e	2AA	2c	2e	2a
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2D	6 5	2a	1B	2D	2a	2f	2D	2B	2f	2a
@@ -116,5 +116,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/06
+!!!EEV: 2023/12/08
 !!!title: @{ONM}. @{OTL}

@@ -26,15 +26,15 @@
 2C#X	7 5	2g	2B-	2C#X	2g	2en	2C#X	2B-	2en	2g
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2D	#	2f#X	2A	2D	2f#X	2d	2D	2A	2d	2f#X
-2E-X	2	2f#	2A	2E-X	2f#	2cni	2E-X	2A	2c	2f#
+2E-X	#2|	2f#	2A	2E-X	2f#	2cni	2E-X	2A	2c	2f#
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2D	#	2f#X	2A	2D	2f#X	2d	2D	2A	2d	2f#X
-2C	4	2f#	2A	2C	2f#	2d	2C	2A	2d	2f#
+2C	#4|	2f#	2A	2C	2f#	2d	2C	2A	2d	2f#
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2BBn	6	2g	1G	2BBn	2g	2d	2BBn	2G	2d	2g
 2C	.	2e	.	2C	2e	2c	2C	2G	2c	2e
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2AA	6	1f#X	2.A	2AA	1f#X	2c	(2AA	1A	(2c	1f#X
+2AA	#6\	1f#X	2.A	2AA	1f#X	2c	(2AA	1A	(2c	1f#X
 2D	#	.	.	2D	.	2d	2D)	.	2d)	.
 .	.	.	4c	.	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
@@ -60,21 +60,21 @@
 4C#X	7 5	.	4B-	4C#X	.	4e	4C#X)	4B-)	4e	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2D	#	2f#X	2A	2D	2f#X	2d	2D	2A	2d	2f#X
-2AA	6	2f#	2A	2AA	2f#	2cni	2AA	2A	2c	2f#
+2AA	#6\	2f#	2A	2AA	2f#	2cni	2AA	2A	2c	2f#
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2E-X	2	2f#X	2A	2E-X	2f#X	2c	2E-X	2A	2c	2f#X
+2E-X	#2|	2f#X	2A	2E-X	2f#X	2c	2E-X	2A	2c	2f#X
 4D	#	2f#	2A	4D	2f#	2d	(4D	2A	2d	2f#
 4C	.	.	.	4C	.	.	4C)	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2BBn	6	2g	2G	2BBn	2g	2d	2BBn	2G	2d	2g
 2BB-X	2	2eni	2G	2BB-X	2eni	2c	2BB-X	2G	2c	2e
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-2AA	6	1f#X	2.A	2AA	1f#X	2c	(2AA	1A	(2c	1f#X
+2AA	#6\	1f#X	2.A	2AA	1f#X	2c	(2AA	1A	(2c	1f#X
 2D	8 #	.	.	2D	.	2d	2D)	.	4d	.
-.	.	.	4c	.	.	.	.	.	[4c)	.
+.	7	.	4c	.	.	.	.	.	[4c)	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2GG	4	2g	2ryy	2GG	4c	2d	2GG	2G	(4c]	2g
-.	.	.	.	.	4B-	.	.	.	4B-)	.
+.	3	.	.	.	4B-	.	.	.	4B-)	.
 *	*	*	*v	*v	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -88,5 +88,5 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/06
+!!!EEV: 2023/12/08
 !!!title: @{ONM}. @{OTL}
