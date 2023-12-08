@@ -101,5 +101,6 @@ else
 fi
 
 node ./create-table.mjs
+node ./recalculate-measure-numbers.mjs
 
 rm -rf tmp
