@@ -78,6 +78,7 @@ convert_file() {
             cat - <(echo -e -n "!!!ENC: Wolfgang Drescher\n") | \
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
+            cat - <(echo -e -n "!!!verovio: mnumInterval 1\n") | \
             awk '/^\*met/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1' | \
             awk '/^\*clef/ && !flag { print; print "'"$mclef_line"'"; flag=1; next } 1' | \
             sed '/^!!!OTL/ s/'\''/’/' | \
