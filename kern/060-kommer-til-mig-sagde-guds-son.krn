@@ -1,0 +1,126 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 60
+!!!OTL@@DA: Kommer til mig, ſagde Guds Søn
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*mclefF4	*	*mclefG2	*mclefF4	*mclefG2	*mclefF4	*mclefGv2	*mclefG2	*mclefG2
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*	*F:	*F:	*F:	*F:	*F:	*F:	*F:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
+*	*above	*	*	*	*	*	*	*
+*	*	*	*^	*^	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2G	.	2g	2B-	2G	2g	2d	2G	2B-	2d	2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2E-X	.	2g	2B-	2E-X	2g	2e-X	2E-X	2B-	2e-X	2g
+2C	-	2g	2c	2C	2g	2e-	2C	2c	2e-	2g
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2BB-	6	2.dd	2ryy	2BB-	2d	2g	2BB-	2d	2g	2.dd
+*	*	*	*	*	*	*^	*	*	*	*
+2D	#	.	2A	2D	4ryy	2f#X	2d\	2D	2A	2f#X	.
+.	.	4cc	.	.	4cc	.	.	.	.	.	4cc
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*^	*	*	*
+2FF#X	6	2dd	2A	2F#X	2dd	2a	2d\	2F#X	2FF#X	2A	2d	2dd
+2GG	.	2b-	2B-	2G	2b-	2g	2d\	2G	2GG	2G	2d	2b-
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2D	#	2a	2ryy	2D	2d	2f#X	2D	1r	2F#X	2d	2a
+2E-X	.	2g	2B-	2E-X	2g	2g	2E-X	.	2B-	2g	2g
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2Eni	5	2b-	2c	2Eni	2b-	2g	2Eni	1r	2c	2g	2b-
+2F	.	2a	2c	2Fni	2a	2fni	2F	.	2c	2f	2a
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2D	6	2.b-	1ryy	2D	1d	2f	2D	1r	2d	2f	2.b-
+2BB-	6	.	.	2BB-	.	[2g	2BB-	.	2d	[2g	.
+.	.	4dd	.	.	.	.	.	.	.	.	4dd
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2AA	7 -r5	2cc	1ryy	2AA	4e-X	4g]	2AA	1r	(4e-X	(4g]	2cc
+.	#6\	.	.	.	4d	4f#X	.	.	4d)	4f#X)	.
+2GG	.	2b-	.	2GG	2d	[2g	2GG	.	2d	[2g	2b-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	4	2a	4ryy	2D	2d	4g]	2D	1r	2d	(4g]	2a
+.	#	.	4ryy	.	.	4f#X	.	.	.	4f#X)	.
+2G	.	2b-	2d	2G	2b-	2g	2G	.	2d	2g	2b-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2B-	6	2g	2d	2B-	2g	2g	2B-	1r	2d	2g	2g
+2B-	nr4	2g	2c	2B-	2g	4e	2B-	.	2c	(4e	2g
+.	.	.	.	.	.	[4g	.	.	.	[4g)	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2A	7	2.cc	2c	2A	2.cc	4g]	(2A	1r	[2c	((4g]	(2.cc
+.	6	.	.	.	.	4f	.	.	.	4f)	.
+2E	6	.	2c	2E	.	[2g	2E	.	2c_	[2g	.
+.	5	4b-	.	.	4b-	.	.	.	.	.	4b-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2F	9	2a	2c	2F	2a	4g]	2F)	1r	2c]	(4g]	2a)
+.	8	.	.	.	.	4f	.	.	.	4f))	.
+4D	6	2b-	4ryy	4D	2d	[2f	(4D	.	(4f	[2f	2b-
+4BB-	.	.	4ryy	4BB-	.	.	4BB-)	.	4d)	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1C	4	1g	4G	1C	1g	2f]	1C	1r	1c	(2f]	1g
+.	.	.	4A	.	.	.	.	.	.	.	.
+.	3	.	2B-	.	.	2e	.	.	.	2e)	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2FF	.	2f	2A	2F	2f	2c	2F	2FF	2A	2f	2f
+*	*	*	*	*	*	*	*v	*v	*	*	*
+4F	.	2f	2A	4F	2f	2c	(4F	2A	2c	2f
+4E-X	.	.	.	4E-X	.	.	4E-X)	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2D	6	2b-	2B-	2D	2b-	2f	2D	2B-	2f	2b-
+2C	6 -	2a	2c	2C	2a	2e-X	2C	2c	2e-X	2a
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2BB-	.	2b-	2ryy	2BB-	2d	2f	2BB-	2d	2f	2b-
+2B-	6	2dd	2d	2B-	2dd	2g	2B-	2d	2g	2dd
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2F#X	5	2cc	1d	2F#X	2cc	2a	2F#X	2d	2a	2cc
+2G	.	2b-	.	2G	2b-	2g	2G	2d	2g	2b-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2D	#	2a	2d	2D	2a	2f#X	2D	2d	2f#X	2f
+2B-	6	2g	2ryy	2B-	2d	[2g	2B-	2d	2g	2g
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2C#X	7 5	2b-	1ryy	2C#X	2e	2g]	2C#X	2e	2g	2b-
+2D	#	2a	.	2D	2d	2f#X	2D	2d	2f#X	2a
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2G	.	2.b-	1ryy	2G	1d	1g	2G	2d	2g	2.b-
+2F	2	.	.	2Fni	.	.	2F	2d	2g	.
+.	.	4dd	.	.	.	.	.	.	.	4dd
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2E	6	2cc	2G	2E	2cc	2g	2E	2G	2g	2cc
+2C	7	2b-	2c	2C	2b-	2e	2C	2c	2e	2b-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2F	.	2a	2c	2F	2a	2f	2F	2c	2f	2f
+2F#X	6	2dd	2d	2F#X	2dd	2a	2F#X	2d	2a	2dd
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2G	.	2b-	1d	2G	2b-	2g	2G	2d	2g	2b-
+2c	#4|	2a	.	2c	2a	2f#X	2c	2d	2f#X	2a
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2B-	6	2g	2d	2B-	2g	2g	2B-	2d	2g	2g
+*	*	*	*	*	*	*^	*	*	*	*
+2G	.	2b-	2B-	2G	2b-	[2g	2d\	2G	2d	[2g	2b-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2C	6 5 -	1a	1c	2C	1a	2g]	2e-X\	(2C	(2e-X	(2g]	1a
+2D	#	.	.	2D	.	2f#X	2d\	2D)	2d)	2f#X)	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2GG	.	2g	2ryy	2GG	2B-	2g	2d\	2GG	2B-	2g	2f
+*	*	*	*v	*v	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/12/10
+!!!title: @{ONM}. @{OTL}
+!!!verovio: mnumInterval 1

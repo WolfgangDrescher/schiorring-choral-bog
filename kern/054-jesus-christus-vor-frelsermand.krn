@@ -1,0 +1,108 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 54
+!!!OTL@@DA: Jeſus Chriſtus vor Frelſermand
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*mclefF4	*	*mclefG2	*mclefF4	*mclefG2	*mclefF4	*mclefGv2	*mclefG2	*mclefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*	*D:	*D:	*D:	*D:	*D:	*D:	*D:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
+*	*above	*	*	*	*	*	*	*
+*	*	*	*^	*^	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2BB	.	2b	2ryy	2BB	2d	2f#	2BB	2d	2f#	2b
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2F#	5	2a	1ryy	2F#	4c#	2f#	2F#	(4c#	2f#	2a
+.	#6\	.	.	.	4d#X	.	.	4d#X)	.	.
+2E	#	2b	.	2E	2e	2g#X	2E	2e	2g#X	2b
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2A	.	2cc#	2ryy	2A	2e	2a	2A	2e	2a	2cc#
+2E#X	5	2b	2c#	2E#X	2b	[2g#X	2E#X	2c#	[2g#X	2b
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2F#	#9\	(2a	2c#	2F#	2a	4g#]	(2F#	(2c#	(4g#]	(2a
+.	8	.	.	.	.	2f#	.	.	2f#	.
+2C#	4	2g#X)	2B	2C#	2g#X	.	2C#)	2B)	.	2g#X)
+.	#	.	.	.	.	4e#X	.	.	4e#X)	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2F#	.	2f#	2A	2F#	2f#	2c#	2F#	2A	2f#	2f#
+2D	.	2f#	2A	2D	2f#	2d	2D	2A	2f#	2f#
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2C#	6	2a	2.A	2C#	2a	2e	2C#	2e	(4e	2a
+.	.	.	.	.	.	.	.	.	2a)	.
+2BB	7	2b	.	2BB	2b	2d	2BB	2d	.	2b
+.	#6\	.	4G#X	.	.	.	.	.	4g#X	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2AA#X	n7 5	2cc#	4Gni	2AA#X	2cc#	2.e	2AA#X	2.e	(4gni	2cc#
+.	6	.	2.F#	.	.	.	.	.	4f#)	.
+2BB	4	2b	.	2BB	2b	.	2BB	.	2f#	2b
+.	3	.	.	.	.	4d	.	4d	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2E	6 5 n	2b	2G	2E	2b	1c#	(2E	1c#	(2g	(2b
+2F#	#	2a#X	2F#	2F#	2a#X	.	2F#)	.	2f#)	2a#X)
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2BB	.	2b	2F#	2BB	2b	2d	2BB	2d	2f#	2b
+2B	.	2dd	2B	2B	2dd	2f#	2B	2B	2f#	2dd
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2F#	8 #	2cc#	2A#X	2F#	2cc#	4f#	(2F#	2A#X	(4f#	2cc#
+.	7	.	.	.	.	4e	.	.	4e)	.
+2G	.	2b	[2B	2G	2b	4d	2G)	2B	(4d	2b
+.	.	.	.	.	.	4b	.	.	4b)	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2E#X	5	1cc#	2B]	2E#X	1cc#	2g#X	(2E#X	(2B	(2g#X	1cc#
+2F#	#	.	2A#X	2F#	.	2f#	2F#)	4A#X	2f#)	.
+.	.	.	.	.	.	.	.	4e)	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*	*	*	*	*^	*	*	*	*
+2BB	.	2b	2B	2BB	2b	2f#	2d\	2BB	2d	2f#	2b
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2C#	7 #	2b	2G#X	2C#	2b	2e#X	2C#	2G#X	2e#X	2b
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4F#	5_ 3_	2a	2.A	4F#	2a	2c#	(4F#	2.A	2c#	2a
+4E	.	.	.	4Eni	.	.	4E)	.	.	.
+4D	6 5	2b	.	4D	2b	4f#	(4D	.	(4f#	2b
+4E	#	.	4G#X	4E	.	4eni	4E)	4G#X	4eni)	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2A	.	2cc#	2A	2A	2cc#	4e	2A	2A	(4e	2cc#
+.	.	.	.	.	.	2c#	.	.	2c#)	.
+2E#X	5	2b	2G#X	2E#X	2b	.	2E#X	2G#X	.	2b
+.	.	.	.	.	.	[4g#X	.	.	[4g#X	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2F#	#9\	2a	2c#	2F#	2a	4g#]	(2F#	(2c#	(4g#]	(2a
+.	8	.	.	.	.	2f#	.	.	2f#	.
+2C#	4	2g#X	2B	2C#	2g#X	.	2C#)	2B)	.	2g#X)
+.	#	.	.	.	.	4e#X	.	.	4e#X)	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2F#	.	2f#	2A	2F#	2f#	2c#	2F#	2A	2f#	2f#
+2F#	.	2a	2c#	2F#	2a	[2f#	2F#	2c#	[2f#	2a
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2G	7	2b	2B	2G	2b	4f#]	2G	2B	(4f#]	2b
+.	6	.	.	.	.	4e	.	.	4e)	.
+2E	6 n	2cc#	2e	2E	2cc#	2g	2E	2e	2g	2cc#
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1F#	6 4	2b	2d	1F#	2b	1f#	2F#	2d	2f#	2b
+.	5 #	2a#X	2c#	.	2a#X	.	2F#	2c#	2f#	2a#X
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*	*	*	*	*	*	*^	*	*	*	*
+2BB	.	2b	2d	2BB	2b	2f#	2d\	2BB	2d	2f#	2b
+*	*	*	*v	*v	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/12/10
+!!!title: @{ONM}. @{OTL}
+!!!verovio: mnumInterval 1

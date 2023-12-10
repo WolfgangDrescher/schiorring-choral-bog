@@ -1,0 +1,123 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!OPR@@DA: Choral-Bog
+!!!ONM: 85
+!!!OTL@@DA: Dpløs du dog, min Gud! de Baand
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*mclefF4	*	*mclefG2	*mclefF4	*mclefG2	*mclefF4	*mclefGv2	*mclefG2	*mclefG2
+*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*E-:	*	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:	*E-:
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
+*MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
+*	*above	*	*	*	*	*	*	*
+*	*	*	*^	*^	*	*	*	*
+*	*	*	*	*	*	*^	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2C	.	2cc	2G	2C	2cc	2g	2e-\	2C	2G	2e-	2cc
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2E-	6	2g	2G	2E-	2g	2.c	2e-/	2E-	2E-	[2c	2g
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2D	7	2f	4A-	2D	2f	.	2D	2F	(4c]	2f
+.	nr6	.	4G	.	.	4Bn	.	.	4Bn)	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2C	.	2e-	2G	2C	2e-	2c	2C	2G	2c	2e-
+2AA-	6	2f	2ryy	2AA-	2c	2c	2AA-	2c	2c	2f
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2GG	n	2g	1ryy	2GG	2Bn	2d	2GG	2B	2d	2g
+*	*	*	*	*	*	*	*^	*	*	*
+2EEn	-r5	2b-	.	2EEn	2c	2g	2En	2EEn	2c	2g	2b-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2FF	.	2a-	1ryy	2FF	2c	2f	2F	2FF	2c	2f	2a-
+2GG	n	2g	.	2GG	2Bn	2d	(4G	2GG	2B	2d	2g
+.	.	.	.	.	.	.	4GG)	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2AAn	6	2f	2ryy	2AAn	2c	2c	2AAn	2c	2c	2f
+2BBn	6	2g	2G	2BBn	2g	2d	2BBn	2G	2d	2g
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1C	.	2e-	2G	2C	2e-	2c	2C	2G	2c	2e-
+.	.	2c	2E-	2C	2c	2G	2C	2E-	2c	2c
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2r	.	2r	2r	2r	2r	2r	2r	2r	2r	2r
+2E-	6	2cc	2G	2E-	2cc	2c	2E-	2G	2g	2cc
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2D	6	2b-	2F	2D	2b-	1d	2D	2B-	2f	2b-
+2BB-	7	2a-	2B-	2BB-	2a-	.	2BB-	2B-	2d	2a-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2E-	.	2g	2B-	2E-	2g	2e-	2E-	2B-	2e-	2g
+2C	6	2a-	2ryy	2C	2c	2e-	2C	2c	2e-	2a-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1GG	6	2b-	1ryy	1GG	2e-	2g	2GG	2B-	2e-	2b-
+.	.	2ee-	.	.	2e-	2b-	2GG	2B-	2e-	2ee-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2AA-	5	2cc	1ryy	2AA-	2e-	2a-	2AA-	2c	2e-	2cc
+2AA-	6	2a-	.	2AA-	2c	2f	2AA-	2c	2f	2a-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1BB-	6 4	2g	2B-	1BB-	2g	2e-	2BB-	2B-	2e-	2g
+.	5 3	2f	2A-	.	2f	2d	2BB-	2A-	2d	2f
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2E-	.	2e-	2G	2E-	2e-	2B-	2E-	2G	2e-	2e-
+=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!	=15:|!
+2D	6	2b-	2B-	2D	2b-	2f	2D	2B-	2f	2b-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2E-	.	2g	2B-	2E-	2g	2e-	2E-	2B-	2e-	2g
+2C	.	2ee-	2c	2C	2ee-	2g	2C	2c	2g	2ee-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1A-	5	2cc	1ryy	1A-	2e-	2a-	2A-	2c	2e-	2cc
+.	6	2ff	.	.	2f	2cc	2A-	2c	2f	2ff
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2F	6	2dd	1ryy	2F	2f	2a-	2F	2d	2a-	2dd
+2F#X	5	2cc	.	2F#X	2d	2an	2F#X	2d	2an	2cc
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2G	.	2b-	2ryy	2G	2d	2g	2G	2d	2g	2b-
+2D	6	2b-	[2B-	2D	2b-	2fni	2D	[2B-	2f	2b-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2E-	6 5	2cc	2B-]	2E-	2cc	2g	2E-	2B-]	2g	2cc
+*	*	*	*	*	*	*^	*	*	*	*
+2F	7 n	2ee-	2An	2F	2ee-	2cc	2f\	2F	2A	2f	2ee-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2BB-	.	2dd	2B-	2BB-	2dd	2b-	2f\	2BB-	2B-	2f	2dd
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2GG	6	2ee-	2ryy	2GG	2e-	[2b-	2GG	2B-	[2b-	2ee-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2AA-	9	2cc	1ryy	2AA-	2e-	4b-]	2AA-	2e-	(4b-]	2cc
+.	8	.	.	.	.	2a-	.	.	2a-)	.
+2BB-	7	2b-	.	2BB-	2d	.	2BB-	2d	.	2b-
+.	6	.	.	.	.	[4g	.	.	[4g	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4C	6 5	2a-	1ryy	4C	4e-	4g]	(4C	(4e-	(4g]	2a-
+2D	5	.	.	2D	2B-	2.f	2D)	2B-)	4f)	.
+.	.	2b-	.	.	.	.	.	.	2f	2b-
+4BB-	.	.	.	4BB-	4d	.	4BB-	4d	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2E-	.	2g	2B-	2E-	2g	2g	2E-	2B-	2g	2g
+2C	.	2cc	2ryy	2C	2e-	2g	2C	2e-	2g	2cc
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2A-	6	2f	2c	2A-	2f	4f	2A-	2c	(4f	2f
+.	.	.	.	.	.	4c	.	.	4c)	.
+2G	6 4	2e-	2G	2G	2e-	[2c	2G	2G	[2c	2e-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2F#X	6 5	2d	2An	2F#X	2d	2c]	2F#X	2A	2c]	2d
+2G	n	2d	2G	2G	2d	2Bn	2G	2G	2Bn	2d
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+2C	.	2c	2E-	2C	2c	2G	2C	2E-	2c	2c
+*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/12/10
+!!!title: @{ONM}. @{OTL}
+!!!verovio: mnumInterval 1
