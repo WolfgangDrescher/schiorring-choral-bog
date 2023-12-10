@@ -16,6 +16,25 @@ pad_with_zeros() {
     echo "$(printf "%0${pad_num}d" "$num")$suffix"
 }
 
+correct_count() {
+    if [[ "$1" -eq 30 ]]; then
+        echo "${1}a";
+    elif [[ "$1" -eq 72 ]]; then
+        echo "$(($1-1))a";
+    elif [[ "$1" -eq 31 ]]; then
+        echo "$(($1 - 1))b";
+    elif [[ "$1" -eq 73 ]]; then
+        echo "$(($1 - 2))b";
+    elif [[ $1 -gt 73 ]]; then
+        echo "$(($1-2))"
+    elif [[ $1 -gt 31 ]]; then
+        echo "$(($1-1))"
+    else
+        echo "$(($1))"
+        # echo "$(($1+100))"
+    fi
+}
+
 swap_lines() {
     local string=${1:-$(</dev/stdin)}
     # declare string=${*:-$(</dev/stdin)}
@@ -52,6 +71,7 @@ convert_file() {
         pattern="tmp/*.xml"
         kern_filename=$(php slugify.php "$(echo "$filename" | sed "s/Schiorring - //")")
         num=$(echo "$kern_filename" | grep -o '^[0-9]\+' | sed 's/^0*//')
+        num=$(correct_count "$num")
         padded_num=$(pad_with_zeros "$num")
         kern_filename="${padded_num}$(echo "$kern_filename" | sed 's/^[0-9]*//')"
         kern_file="$kern_filename.krn"
