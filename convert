@@ -10,12 +10,10 @@ args=("$@")
 pad_num=${args[1]:-3}
 
 pad_with_zeros() {
-    if [[ ! "$1" =~ ^[0-9]+$ ]]; then
-        echo "Error: Input is not a valid number."
-        return 1
-    fi
-    num=$(echo "$1" | sed 's/^0*//')
-    printf "%0${pad_num}d" "$num"
+    string=$(echo "$1" | sed 's/^0*//')
+    num=$(echo "$string" | awk 'match($0, /[0-9]+/) { print substr($0, RSTART, RLENGTH) }')
+    suffix=$(echo "$string" | awk 'match($0, /[0-9]+/) { print substr($0, RSTART+RLENGTH) }')
+    echo "$(printf "%0${pad_num}d" "$num")$suffix"
 }
 
 swap_lines() {
