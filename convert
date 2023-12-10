@@ -54,8 +54,8 @@ convert_file() {
         num=$(echo "$kern_filename" | grep -o '^[0-9]\+' | sed 's/^0*//')
         padded_num=$(pad_with_zeros "$num")
         kern_filename="${padded_num}$(echo "$kern_filename" | sed 's/^[0-9]*//')"
-        kern_filename="$kern_filename.krn"
-        echo "$kern_filename"
+        kern_file="$kern_filename.krn"
+        echo -e "$kern_file"
         musicxml2hum "$xml_file" | \
             extractxx -I "**recip" | \
             `#shed -x **fb -e "s/_//g" |` \
@@ -89,7 +89,7 @@ convert_file() {
             grep -v '^*I' | \
             awk '!/^([\t*]+)$/' | \
             echo -ne "$(cat)" \
-            > "kern/$kern_filename"
+            > "kern/$kern_file"
     fi
 }
 
