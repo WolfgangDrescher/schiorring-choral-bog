@@ -46,6 +46,15 @@ swap_lines() {
     fi
 }
 
+add_mm_line() {
+    local string=${1:-$(</dev/stdin)}
+    string="$(echo -e "$string" | awk '/^\*met/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1')"
+    if ! echo -e "$string" | grep -q '^\*MM'; then
+        string="$(echo -e "$string" | awk '/^\*M[0-9]+/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1')"
+    fi;
+    echo -e "$string"
+}
+
 mm_line="*MM180\t*\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180\t*MM180"
 mclef_line="*mclefF4\t*\t*mclefG2\t*mclefF4\t*mclefG2\t*mclefF4\t*mclefGv2\t*mclefG2\t*mclefG2"
 fbabove_line="*\t*above\t*\t*\t*\t*\t*\t*\t*"
@@ -102,7 +111,7 @@ convert_file() {
             cat - <(echo -e -n "!!!EEV: $(date '+%Y/%m/%d')\n") | \
             cat - <(echo -e -n "!!!title: @{ONM}. @{OTL}\n") | \
             cat - <(echo -e -n "!!!verovio: mnumInterval 1\n") | \
-            awk '/^\*met/ && !flag { print; print "'"$mm_line"'"; flag=1; next } 1' | \
+            add_mm_line | \
             awk '/^\*clef/ && !flag { print; print "'"$mclef_line"'"; flag=1; next } 1' | \
             awk '/^\*MM180/ && !flag { print; print "'"$fbabove_line\n$fbslash_line"'"; flag=1; next } 1' | \
             sed '/^!!!OTL/ s/'\''/’/' | \
