@@ -11,6 +11,9 @@
 *k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
 *G:	*	*G:	*G:	*G:	*G:	*G:	*G:	*G:
 *M3/2	*	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2
+*MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
+*	*above	*	*	*	*	*	*	*
+*	*slash	*	*	*	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*^	*^	*	*	*	*
 1G	.	2g	1B	1G	2g	1d	2G	2B	2d	2g
@@ -89,6 +92,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/10
+!!!EEV: 2023/12/11
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1
