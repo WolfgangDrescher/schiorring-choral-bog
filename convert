@@ -20,7 +20,7 @@ correct_count() {
     if [[ "$1" -eq 30 ]]; then
         echo "${1}a";
     elif [[ "$1" -eq 72 ]]; then
-        echo "$(($1-1))a";
+        echo "$(($1 - 1))a";
     elif [[ "$1" -eq 31 ]]; then
         echo "$(($1 - 1))b";
     elif [[ "$1" -eq 73 ]]; then
