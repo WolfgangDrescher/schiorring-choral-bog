@@ -13,6 +13,7 @@
 *met(c)	*	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)	*met(c)
 *MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
 *	*above	*	*	*	*	*	*	*
+*	*slash	*	*	*	*	*	*	*
 *	*	*	*^	*^	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 2E	.	2b	2G	2E	2b	2e	2E	2G	2e	2b
@@ -108,6 +109,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/08
+!!!EEV: 2023/12/11
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1
