@@ -15,10 +15,8 @@
 *	*above	*	*	*	*	*	*	*
 *	*slash	*	*	*	*	*	*	*
 *	*	*	*^	*^	*	*	*	*
-*	*	*	*	*	*^	*	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-2C	.	2cc	2ryy	2C	2cc	2g	2e\	2C	2e	2g	2cc
-*	*	*	*	*	*v	*v	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2C	.	2cc	2e>	2C	2cc	2g	2C	2e	2g	2cc
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 2G	.	2b	2d	2G	2b	2g	2G	2d	2g	2b
 2D	7 #	2aM	2c	2D	2aM	2f#X	2D	2c	2f#Xm	2aM
@@ -32,7 +30,7 @@
 2C;<	.	2cc;	2G;y	2C;	2cc;	2e;y	2C;	2G;	2e;	2cc;
 2GG	.	2dd	2G	2GG	2dd	2b	2GG	2B	2g	2dd
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2AA	#6|	2cc	2F#X	2AA	2cc	2a	2AA	2c	2f#X	2cc
+2AA	#6\	2cc	2F#X	2AA	2cc	2a	2AA	2c	2f#X	2cc
 4BB	6	2b	2G	4BB	2b	2d	(4BB	2d	2g	2b
 4C	.	.	.	4C	.	.	4C)	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -55,7 +53,7 @@
 2BB	6	2dd	2G	2BB	2dd	2g	2BB	2d	2g	2dd
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2C	.	2ee	2c	2C	2ee	2g	2C	2c	2g	2ee
-2AA	#6|	2ccM	2c	2A	2ccM	2f#X	2AA	2c	2f#X	2ccM
+2AA	#6\	2ccM	2c	2A	2ccM	2f#X	2AA	2c	2f#X	2ccM
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2GG;<	.	2dd;	2B;y	2G;	2dd;	2d;y	2GG;	2B;	2d;	2dd;
 2E	6	2g	2c	2E	2g	2g	2E	2c	2g	2g
