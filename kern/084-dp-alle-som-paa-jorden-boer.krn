@@ -87,7 +87,7 @@
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
-!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: i = editorial accidental, paren
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!AGN: chorale
@@ -95,6 +95,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/11
+!!!EEV: 2023/12/12
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1
