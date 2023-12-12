@@ -115,6 +115,7 @@ convert_file() {
             awk '/^\*clef/ && !flag { print; print "'"$mclef_line"'"; flag=1; next } 1' | \
             awk '/^\*MM180/ && !flag { print; print "'"$fbabove_line\n$fbslash_line"'"; flag=1; next } 1' | \
             sed '/^!!!OTL/ s/'\''/’/' | \
+            sed "s/editorial accidental/editorial accidental, paren/" | \
             sed "s/yy@/yy/" | \
             grep -v '^*I' | \
             awk '!/^([\t*]+)$/' | \
