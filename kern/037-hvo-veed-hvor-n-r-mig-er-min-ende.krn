@@ -66,9 +66,9 @@
 2GG	4	2dd	2G	2GG	2dd	4cc]	2g\	2GG	(4c]	2g	2dd
 .	3	.	.	.	.	4b	.	.	4B)	.	.
 *	*	*	*	*	*	*v	*v	*	*	*	*
-2GG#X	6	2ee	2ryy	2GG#X	2e	2b	2GG#X	2B	2e	2ee
+2GG#X	6	2ee	2e>	2GG#X	2ee	2b	2GG#X	2B	2e	2ee
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-2AA	.	2cc	2ryy	2AA	2e	2a	2AA	2c	2e	2cc
+2AA	.	2cc	2e>	2AA	2cc	2a	2AA	2c	2e	2cc
 [2F	.	2a	2c	[2F	2a	2f	[2F	2c	2f	2a
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2F]	2	2g	2B	2F]	2g	2d	2F]	2B	2d	2g
@@ -91,6 +91,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/11
+!!!EEV: 2023/12/12
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

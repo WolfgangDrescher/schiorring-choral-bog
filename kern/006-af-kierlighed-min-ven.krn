@@ -25,8 +25,8 @@
 2E-	.	2g	1B-	2E-	2g	2e-	2E-	2B-	2e-	2g
 2E-	nr4	2an	.	2E-	2an	2f	2E-	2c	2f	2an
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2D	nr6	2bn	1ryy	2D	2d	2f	2D	2d	2f	2bn
-2C	.	2cc	.	2C	2e-	2g	2C	2e-	2g	2cc
+2D	nr6	2bn	2d>	2D	2bn	2f	2D	2d	2f	2bn
+2C	.	2cc	2e->	2C	2cc	2g	2C	2e-	2g	2cc
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2G	n	2dd	2Bn	2G	2dd	1g	2G	2B	2g	2dd
 2C	.	2ee-	[2c	2C	2ee-	.	2C	[2c	2g	2ee-
@@ -47,7 +47,7 @@
 2D	5	2a-	2B-	2D	2a-	2f	2D	2B-	2f	2a-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 2E-	.	2g	2B-	2E-	2g	2e-	2E-	2B-	2e-	2g
-2AA-	.	2a-	2ryy	2AA-	2c	2e-	2AA-	2c	2e-	2a-
+2AA-	.	2a-	2c>	2AA-	2a-	2e-	2AA-	2c	2e-	2a-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 1BB-	6 4	2g	2B-	1BB-	2g	2e-	2BB-	2B-	2e-	2g
 .	7 5 3	2f	2A-	.	2f	2d	2BB-	2A-	2d	2f
@@ -68,16 +68,16 @@
 *	*	*	*	*	*	*^	*	*	*	*
 2GG	.	2g	2G	2GG	2g	2B-	2d/	2GG	2B-	2g	2g
 *	*	*	*	*	*	*v	*v	*	*	*	*
-2G	.	2b-	2ryy	2G	2d	2g	2G	2d	2g	2b-
+2G	.	2b-	2d>	2G	2b-	2g	2G	2d	2g	2b-
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2En	5	2b-	1ryy	2En	2c	2g	2En	2c	2g	2b-
-2C	n	2cc	.	2C	2en	2g	2C	2e	2g	2cc
+2En	5	2b-	2c>	2En	2b-	2g	2En	2c	2g	2b-
+2C	n	2cc	2en>	2C	2cc	2g	2C	2e	2g	2cc
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2F	.	2a-	1ryy	2F	2c	2a-	2F	2c	2f	2a-
-2BB-	7	2a-	.	2BB-	2d	2f	2BB-	2d	2f	2a-
+2F	.	2a-	2c>	2F	2a-	2a-	2F	2c	2f	2a-
+2BB-	7	2a-	2d>	2BB-	2a-	2f	2BB-	2d	2f	2a-
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2E-	.	2g	2B-	2E-	2g	2g	2E-	2B-	2g	2g
-2BBn	6	2dd	2ryy	2BBn	2d	2g	2BBn	2d	2g	2dd
+2BBn	6	2dd	2d>	2BBn	2dd	2g	2BBn	2d	2g	2dd
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2C	.	2ee-	1G	2C	2ee-	1g	2C	2G	2g	2ee-
 2E-	6	2cc	.	2E-	2cc	.	2E-	2G	2g	2cc
@@ -98,6 +98,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/11
+!!!EEV: 2023/12/12
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

@@ -20,7 +20,7 @@
 .	.	2e	.	.	2e	2c	2C	2G	2c	2e
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 2F	.	2a	2A	2F	2a	2c	2F	2F	2c	2a
-2D	6	2b	2ryy	2D	2d	2f	2D	2F	2d	2b
+2D	6	2b	2d>	2D	2b	2f	2D	2F	2d	2b
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *	*	*	*	*	*	*^	*	*	*	*
 2AA	.	2cc	2A	2AA	2cc	2a	2e\	2AA	2E	2e	2cc
@@ -28,7 +28,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1GG	.	1b	1G	1GG	1b	1g	1d\	1GG	1G	1d	1b
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2D	n	2a	2ryy	2D	2d	2f	1r	2D	2F	2d	2a
+2D	n	2a	2d>	2D	2a	2f	1r	2D	2F	2d	2a
 2E	6	2cc	2G	2E	2cc	2e	.	2E	2G	2c	2cc
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2BB	6	2g	2G	2BB	2g	2d	1r	2BB	2G	2d	2g
@@ -47,7 +47,7 @@
 .	#4|	2f#X	2A	.	2f#X	2d	.	2C	2A	2d	2f#X
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2BB	#6\	2g#X	2B	2BB	2g#X	2d	1r	2BB	2B	2d	2g#X
-2AA	.	2a	2ryy	2AA	2c	2e	.	2AA	2c	2e	2a
+2AA	.	2a	2c>	2AA	2a	2e	.	2AA	2c	2e	2a
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2D	6 5	2a	1B	2D	2a	2f	1r	2D	2B	2f	2a
 2E	#	2g#X	.	2E	2g#X	2e	.	2E	2B	2e	2g#X
@@ -55,10 +55,10 @@
 1AA	.	1a	1A	1AA	1a	1e	1c\	1AA	1c	1e	1a
 *	*	*	*	*	*	*v	*v	*	*	*	*
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2D	6	2b	1ryy	2D	2d	2f	2D	2d	2f	2b
-2E	6	2cc	.	2E	2c	2g	2E	2c	2g	2cc
+2D	6	2b	2d>	2D	2b	2f	2D	2d	2f	2b
+2E	6	2cc	2c>	2E	2cc	2g	2E	2c	2g	2cc
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2BB	5	2dd	2ryy	2BB	2f	2g	2BB	2f	2g	2dd
+2BB	5	2dd	2f>	2BB	2dd	2g	2BB	2f	2g	2dd
 *	*	*	*	*	*	*^	*	*	*	*
 2C	.	2ee	[2c	2C	2ee	2g	2e\	2C	(4e	2g	2ee
 .	.	.	.	.	.	.	.	.	4c)	.	.
@@ -79,6 +79,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/11
+!!!EEV: 2023/12/12
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

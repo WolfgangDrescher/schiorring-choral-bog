@@ -29,29 +29,29 @@
 .	3	.	4F#	.	.	.	.	4F#)	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 1GG	.	1b	1G	1GG	1b	1d	1GG	1G	1d	1b
-2G	.	2b	2ryy	2G	2d	2g	2G	2d	2g	2b
+2G	.	2b	2d>	2G	2b	2g	2G	2d	2g	2b
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2E	.	1b	1.ryy	2E	1e	1g	(2E	1e	1g	1b
+2E	.	1b	1e>	2E	1b	1g	(2E	1e	1g	1b
 2D	2	.	.	2D	.	.	2D)	.	.	.
-2C#X	7 5	2b	.	2C#X	2e	2g	2C#X	2e	2g	2b
+2C#X	7 5	2b	2e>	2C#X	2b	2g	2C#X	2e	2g	2b
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2D	6 4	1b	2ryy	2D	2d	2g	2D	(2d	(2g	1b
-1D#X	6	.	1B	1D#X	2ryy	1f#	1D#X	2B)	2f#)	.
+2D	6 4	1b	2d>	2D	1b	2g	2D	(2d	(2g	1b
+1D#X	6	.	1B	1D#X	.	1f#	1D#X	2B)	2f#)	.
 .	5	2a	.	.	2a	.	.	2B	2f#	2a
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2E	.	2g	2B	2E	2g	[2g	(2E	(2B	1g	2g
-2C	6 5	1a	2ryy	2C	2e	2g]	2C)	2e)	.	1a
-2Dni	.	.	2ryy	2Dni	2dn	2f#	2Dni	2d	2f#	.
+2C	6 5	1a	2e>	2C	1a	2g]	2C)	2e)	.	1a
+2Dni	.	.	2dn>	2Dni	.	2f#	2Dni	2d	2f#	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-1GG	.	1g	1ryy	1GG	1B	1d	1GG	1B	1g	1g
+1GG	.	1g	1B>	1GG	1g	1d	1GG	1B	1g	1g
 =10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!
 2C	.	2g	2G	2C	2g	2e	2C	2c	2e	2g
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 1BB	6	1g	1G	1BB	1g	1d	1BB	1d	1g	1g
-2GG	.	2b	2ryy	2GG	2d	[2g	2GG	2d	[2g	2b
+2GG	.	2b	2d>	2GG	2b	[2g	2GG	2d	[2g	2b
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-1D	4	1a	2ryy	1D	1d	2g]	1D	1d	(2g]	1a
-.	3	.	2ryy	.	.	1f#	.	.	2f#)	.
+1D	4	1a	1d>	1D	1a	2g]	1D	1d	(2g]	1a
+.	3	.	.	.	.	1f#	.	.	2f#)	.
 2D#X	6	2b	2B	2D#X	2b	.	2D#X	2B	2f#	2b
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 1E	.	1g	1B	1E	1g	1e	(1E	(1B	(1e	(1g
@@ -66,7 +66,7 @@
 2AA	#	.	.	2AA	.	2c#X	2AA)	.	2c#X)	.
 2D	.	2f#	2A	2D	2f#	2d	2D	2A	2d	2f#
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-2GG	.	2g	2ryy	2GG	2B	1d	2GG	2B	1d	2g
+2GG	.	2g	2B>	2GG	2g	1d	2GG	2B	1d	2g
 1AA	4	1e	2A	1AA	1e	.	1AA	(2A	.	1e
 .	#	.	2G	.	.	2c#X	.	2G)	2c#X	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
@@ -99,27 +99,27 @@
 *	*	*	*	*	*	*^	*	*	*	*
 1AA	.	1a	1A	1AA	1a	1e	1c\	1AA	1A	1c	1a
 *	*	*	*	*	*	*v	*v	*	*	*	*
-2D	#	2a	2ryy	2D	2d	2f#Xi	2D	2A	2f#Xi	2a
+2D	#	2a	2d>	2D	2a	2f#Xi	2D	2A	2f#Xi	2a
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-1G	.	1b	1.ryy	1G	1d	1g	1G	1G	1d	1b
-2E	.	2b	.	2E	2e	2g	2E	2B	2g	2b
+1G	.	1b	1d>	1G	1b	1g	1G	1G	1d	1b
+2E	.	2b	2e>	2E	2b	2g	2E	2B	2g	2b
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-1A	.	1cc	1.ryy	1A	1e	1a	1A	(2A	1e	1cc
+1A	.	1cc	1e>	1A	1cc	1a	1A	(2A	1e	1cc
 .	.	.	.	.	.	.	.	2e)	.	.
-2AA	6	2cc	.	2AA	2f#	[2a	2AA	2f#	[2a	2cc
+2AA	6	2cc	2f#>	2AA	2cc	[2a	2AA	2f#	[2a	2cc
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-1.BB	7	1.dd	1.ryy	1.BB	1.d	2a]	1.BB	1.d	(2a]	1.dd
+1.BB	7	1.dd	1.d>	1.BB	1.dd	2a]	1.BB	1.d	(2a]	1.dd
 .	6	.	.	.	.	2g	.	.	2g	.
 .	nr5	.	.	.	.	[2fn	.	.	[2fn)	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1C	nr4	1g	1.ryy	1C	1c	2f]	1C	1c	(2f]	1g
+1C	nr4	1g	1c>	1C	1g	2f]	1C	1c	(2f]	1g
 .	3	.	.	.	.	2e	.	.	2e)	.
-2GG	.	2b	.	2GG	2d	2g	2GG	2d	2g	2b
+2GG	.	2b	2d>	2GG	2b	2g	2GG	2d	2g	2b
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-1AA	#	1a	1.ryy	1AA	1c#X	1e	1AA	1c#X	1e	1a
-2BB	.	2f#	.	2BB	2d	2d	2BB	2d	2d	2f#
+1AA	#	1a	1c#X>	1AA	1a	1e	1AA	1c#X	1e	1a
+2BB	.	2f#	2d>	2BB	2f#Xi	2d	2BB	2d	2d	2f#
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2GG	.	2g	2ryy	2GG	2B	1d	2GG	2B	1d	2g
+2GG	.	2g	2B>	2GG	2g	1d	2GG	2B	1d	2g
 1AA	4	1e	2A	1AA	1e	.	1AA	(2A	.	1e
 .	#	.	2G	.	.	2c#X	.	2G)	2c#X	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
@@ -128,33 +128,33 @@
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 *	*	*	*	*	*	*	*^	*	*	*
 2E	.	1g	2G	2E	1g	2B	[2E	2E	1G	1B	1g
-2EE	.	.	2ryy	2EE	.	2e	2E]	2EE	.	.	.
-2FF#	6	2f#	2ryy	2FF#	2A	[2d	2F#	2FF#	2A	[2d	2f#
+2EE	.	.	2B>	2EE	.	2e	2E]	2EE	.	.	.
+2FF#	6	2f#	2A>	2FF#	2f#	[2d	2F#	2FF#	2A	[2d	2f#
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-2GG	6 5	1e	2ryy	2GG	2B	2d]	(2G	2GG	(2B	(2d]	1e
-2AA	#	.	2ryy	2AA	2A	2c#X	2A)	2AA	2A)	2c#X)	.
+2GG	6 5	1e	2B>	2GG	1e	2d]	(2G	2GG	(2B	(2d]	1e
+2AA	#	.	2A>	2AA	.	2c#X	2A)	2AA	2A)	2c#X)	.
 2BB	.	2d	2F#	2BB	2d	2d	2B	2BB	2F#	2d	2d
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-2FF#	6	1a	1.ryy	2FF#	2A	2d	(2F#	(2A	(2d	(1a
-2DD	.	.	.	2DD	2d	2f#	2D	1d)	2f#	.
-2GG	.	2b	.	2GG	2d	[2g	2G)	.	[2g)	2b)
+2FF#	6	1a	2A>	2FF#	1a	2d	(2F#	(2A	(2d	(1a
+2DD	.	.	2d>	2DD	.	2f#	2D	1d)	2f#	.
+2GG	.	2b	2d>	2GG	2b	[2g	2G)	.	[2g)	2b)
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *	*	*	*	*^	*	*	*	*	*	*
-1D	4	1a	1.ryy	1DD	1D\	1d	2g]	1D	1d	(2g]	1a
+1D	4	1a	1d>	1DD	1D\	1a	2g]	1D	1d	(2g]	1a
 .	3	.	.	.	.	.	2f#	.	.	2f#)	.
 *	*	*	*	*v	*v	*	*	*	*	*	*
-2Fn	2	2b	.	2Fn	2d	2g	2Fn	2G	2d	2b
+2Fn	2	2b	2d>	2Fn	2b	2g	2Fn	2G	2d	2b
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-2E	6	1cc	1.ryy	2E	2c	2g	(2E	(2G	1e	1cc
-2C	6	.	.	2C	2e	2a	2C)	2A)	.	.
-2D	.	2a	.	2D	2d	2f#Xi	2D	2F#	2d	2a
+2E	6	1cc	2c>	2E	1cc	2g	(2E	(2G	1e	1cc
+2C	6	.	2e>	2C	.	2a	2C)	2A)	.	.
+2D	.	2a	2d>	2D	2a	2f#Xi	2D	2F#	2d	2a
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-2BB	6	2g	1.ryy	2BB	2d	[2g	(2BB	1G	(2d	2g
-2C	6 5	1a	.	2C	2e	2g]	2C)	.	2e)	1a
-2D	.	.	.	2D	2d	2f#	2D	2F#	2d	.
+2BB	6	2g	2d>	2BB	2g	[2g	(2BB	1G	(2d	2g
+2C	6 5	1a	2e>	2C	1a	2g]	2C)	.	2e)	1a
+2D	.	.	2d>	2D	.	2f#	2D	2F#	2d	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-1GG	.	1g	1ryy	1GG	1B	1d	1GG	1G	1B	1g
+1GG	.	1g	1B>	1GG	1g	1d	1GG	1G	1B	1g
 *	*	*	*v	*v	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==

@@ -17,19 +17,19 @@
 *	*slash	*	*	*	*	*	*	*
 *	*	*	*^	*^	*	*	*	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-2C	.	2cc	2ryy	2C	2e-	2g	2C	2e-	2g	2cc
+2C	.	2cc	2e->	2C	2cc	2g	2C	2e-	2g	2cc
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 *	*	*	*	*	*	*	*^	*	*	*
-2FF	6 5 -	2.cc	1ryy	2FF	1d	2a-X	2F	2FF	2.d	2a-X	2.cc
+2FF	6 5 -	2.cc	1d>	2FF	2.cc	2a-X	2F	2FF	2.d	2a-X	2.cc
 2GG	4	.	.	2GG	.	2g	(4G	2GG	.	2g	.
-.	n	4bn	.	.	.	.	4GG)	.	4d	.	4bn
+.	n	4bn	.	.	4bn	.	4GG)	.	4d	.	4bn
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2AA-X	.	2cc	1ryy	2AA-X	2c	2e-	2AA-X	2AA-X	2c	2e-	2cc
+2AA-X	.	2cc	2c>	2AA-X	2cc	2e-	2AA-X	2AA-X	2c	2e-	2cc
 *	*	*	*	*	*	*	*v	*v	*	*	*
-2E-	.	2g	.	2E-	2B-Xi	2e-	2E-	2B-	2e-	2g
+2E-	.	2g	2B-Xi>	2E-	2g	2e-	2E-	2B-	2e-	2g
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2AAni	7 5	2.g	2ryy	2AAni	2c	2.e-	2AAni	2c	2.e-	2.g
-2BB-	6 4	.	2B-	2BB-	4ryy	.	2BB-	2B-	.	.
+2AAni	7 5	2.g	2c>	2AAni	2.g	2.e-	2AAni	2c	2.e-	2.g
+2BB-	6 4	.	2B-	2BB-	.	.	2BB-	2B-	.	.
 .	5 3	4f	.	.	4f	4d	.	.	4d	4f
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2BBn	6	(4g	1G	2BBn	4g	2d	2BBn	2G	2d	(4g
@@ -67,14 +67,14 @@
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2r	.	2r	2r	2r	2r	2r	2r	2r	2r	2r
-2E-	6	2cc	2ryy	2E-	2c	2g	2E-	2c	2g	2cc
+2E-	6	2cc	2c>	2E-	2cc	2g	2E-	2c	2g	2cc
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2D	6 4	2b-	1ryy	2D	1d	2g	2D	2d	2g	2b-
-2C	#4|	2a	.	2C	.	2f#X	2C	2d	2f#X	2a
+2D	6 4	2b-	1d>	2D	2b-	2g	2D	2d	2g	2b-
+2C	#4|	2a	.	2C	2a	2f#X	2C	2d	2f#X	2a
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2BB-	6	2.dd	1ryy	2BB-	1d	2g	2BB-	2d	2g	2.dd
+2BB-	6	2.dd	1d>	2BB-	2.dd	2g	2BB-	2d	2g	2.dd
 2FF#X	6	.	.	2FF#X	.	2a	2FF#X	2d	2a	.
-.	5	4cc	.	.	.	.	.	.	.	4cc
+.	5	4cc	.	.	4cc	.	.	.	.	4cc
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2GG	.	2b-	2d	2GG	2b-	1g	2GG	2d	2g	2b-
 2C	.	2cc	2e-	2C	2cc	.	2C	2e-	[2g	2cc
@@ -82,15 +82,15 @@
 1D	6 4	2b-	2d	1D	2b-	2g	2D	2d	2g]	2b-
 .	5 #	2a	2c	.	2a	2f#X	2D	2c	2f#X	2a
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2GG	.	2g	2ryy	2GG	2B-	2d	2GG	2B-	2g	2g
+2GG	.	2g	2B->	2GG	2g	2d	2GG	2B-	2g	2g
 2E-	.	2g	2B-	2E-	2g	2e-	2E-	2B-	2e-	2g
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2D-X	2	2g	2B-	2D-X	2g	1e-	2D-X	2B-	2e-	2g
 2C	-r6	2a-X	2c	2C	2a-X	.	2C	2c	2e-	2a-X
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2Dni	6	2.b-	2B-	2Dni	2.b-	1f	2Dni	2B-	2f	2.b-
-2BB-	8	.	4ryy	2BB-	.	.	2BB-	2d	2f	.
-.	-7	4a-X	4ryy	.	4a-X	.	.	.	.	4a-X
+2BB-	8	.	2d>	2BB-	.	.	2BB-	2d	2f	.
+.	-7	4a-X	.	.	4a-X	.	.	.	.	4a-X
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2E-	8	2g	2B-	2E-	2g	4e-	2E-	2B-	(4e-	2g
 .	-7	.	.	.	.	4d-X	.	.	4d-X)	.
@@ -101,11 +101,11 @@
 .	6	.	.	.	.	4dni	.	.	4dni)	.
 2E-	.	2g	2B-	2E-	2g	[2e-	2E-	2B-	[2e-	2g
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-2AA-X	6 5	1f	2ryy	2AA-X	2c	2e-]	(2AA-X	(2c	(2e-]	1f
-2BB-	.	.	4B-	2BB-	4ryy	2d	2BB-)	2B-)	2d)	.
-.	.	.	4A-X	.	4ryy	.	.	.	.	.
+2AA-X	6 5	1f	2c>	2AA-X	1f	2e-]	(2AA-X	(2c	(2e-]	1f
+2BB-	.	.	4B-	2BB-	.	2d	2BB-)	2B-)	2d)	.
+.	.	.	4A-X	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-2E-	.	2e-	2ryy	2EE-	2G	2B-	2E-	2G	2e-	2e-
+2E-	.	2e-	2G>	2EE-	2e-	2B-	2E-	2G	2e-	2e-
 *	*	*	*	*	*	*	*^	*	*	*
 2A-X	2	2d	2F	2AA-X	2d	2B-	2A-X	2AA-X	2F	2B-	2d
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25

@@ -24,11 +24,11 @@
 .	6 5	4g	4B-	.	4g	4c	4E	4B-	4c	4g
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 2F	.	2a	2A	2F	2a	2c	2F	2A	2c	2a
-2AA	6	4g	4ryy	2AA	4c	4c	4AA	4c	4c	4g
-.	.	4f	4ryy	.	4c	4f	4AA	4c	4f	4f
+2AA	6	4g	4c>	2AA	4g	4c	4AA	4c	4c	4g
+.	.	4f	4c>	.	4f	4f	4AA	4c	4f	4f
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2BB-	6 5	1g	2ryy	2BB-	2d	2f	(2BB-	(2d	(2f	1g
-2C	.	.	2c	2C	2ryy	2e	2C)	2c)	2e)	.
+2BB-	6 5	1g	2d>	2BB-	1g	2f	(2BB-	(2d	(2f	1g
+2C	.	.	2c	2C	.	2e	2C)	2c)	2e)	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2F	.	2f	2A	2F	2f	2c	2F	2A	2f	2f
 2A	6	2f	2A	2A	2f	2c	2A	2c	2f	2f
@@ -64,11 +64,9 @@
 *	*	*	*	*	*	*^	*	*	*	*
 2AA	6	2cc	2F	2AA	2cc	4f	2c\	2AA	2F	(4f	2cc
 .	-r5	.	.	.	.	4e-X	.	.	.	4e-X)	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2BB-	.	2dd	2F	2BB-	2dd	2d	2B-/<	2BB-	2F	2d	2dd
 *	*	*	*	*	*	*v	*v	*	*	*	*
-=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-*	*	*	*	*^	*	*	*	*	*	*
-2BB-	.	2dd	2F	2BB-	2B-/	2dd	2d	2BB-	2F	2d	2dd
-*	*	*	*	*v	*v	*	*	*	*	*	*
 2G	.	4b-	2G	2G	4b-	2d	4G	4G	4d	4b-
 .	.	4b-	.	.	4b-	.	4G	4G	4d	4b-
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
@@ -93,6 +91,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/11
+!!!EEV: 2023/12/12
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1
