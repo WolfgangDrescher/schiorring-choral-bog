@@ -100,6 +100,8 @@ convert_file() {
             sed "s/^!!!OPR@@DA: Choral Bog/!!!OPR@@DA: Choral-Bog/" | \
             cat <(echo -e -n "!!!CDT: 1743-1798\n") - | \
             cat <(echo -e -n "!!!COM: Schiørring, Niels\n") - | \
+            sed '/!!!RDF\*\*kern: > = above/d' |
+            sed '/!!!RDF\*\*kern: < = below/d' |
             sed "s/!!!system-decoration:.*/!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}/g" | \
             cat - <(echo -e -n "!!!RDF**kern: > = above\n") | \
             cat - <(echo -e -n "!!!RDF**kern: < = below\n") | \
