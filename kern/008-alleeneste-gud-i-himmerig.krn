@@ -1,0 +1,110 @@
+!!!COM: Schiørring, Niels
+!!!CDT: 1743-1798
+!!!COM: Niels Schiørring
+!!!ONM: 8
+!!!OPR@@DA: Alleeneste Gud i Himmerig
+**kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*clefF4	*	*clefC1	*clefF4	*clefC1	*clefF4	*clefC4	*clefC3	*clefC1
+*mclefF4	*	*mclefG2	*mclefF4	*mclefG2	*mclefF4	*mclefGv2	*mclefG2	*mclefG2
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*M3/2	*	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2	*M3/2
+*MM180	*	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180	*MM180
+*	*above	*	*	*	*	*	*	*
+*	*slash	*	*	*	*	*	*	*
+*	*	*	*^	*^	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2GG	.	2g	2B>	2GG	2g	2d	2GG	2BB	2d	2g
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1G	.	1b	1d>	1G	1b	1g	1G	1D	1g	1b
+2E	6	2cc	2c	2E	2cc	2g	2E	2E	2g	2cc
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*	*^	*	*	*	*
+1BB	6	1dd	1B	1BB	1dd	1g	1d	1BB	1D	1g	1dd
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2C	.	2cc	2G	2C	2cc	2e	2C	2E	2g	2cc
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1.D	6 4	1b	1G	1.D	1b	1.d	1D	1D	1g	1b
+.	5 5	2aM	2F#	.	2aM	.	2D	2D	2f#m	2aM
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1GG;	.	1b;	1G	1GG;	1b;	1d	1GG;	1D;	1g;	1b;
+2G	.	2b	2G	2G	2b	2d	2G	2D	2g	2b
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2BB	6	1b	1G	2BB	1b	2d	(2BB	(2D	1g	1b
+2C	7 5	.	.	2C	.	2e	2C)	2E)	.	.
+2D	.	2a	2F#	2D	2a	2f#	2D	2F#	2f#	2a
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4E	6	(2cc	4G	4E	2cc	4e	(4E	(4E	(4g	(2cc
+4F#	5	.	4d	4F#	.	4a	4F#	2.D)	4a	.
+2G	.	2b)	2.d	2G	2b	2g	2G)	.	2g)	2b)
+2D	8	2a	.	2D	2a	2f#	2D	(4D	2f#	2a
+.	7	.	4c	.	.	.	.	4C)	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2E	.	(1g	2B	2E	1g	1e	(2E	(2BB	(1e	(1g
+2C	6 5	.	1A	2C	.	.	2C	1AA)	.	.
+2D	.	2f#m)	.	2D	2f#m	2d	2D)	.	2d)	2f#m)
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*	*	*^	*	*	*	*
+1GG;	.	1g;	1G	1GG;	1g;	1d	1B	1GG;	1BB;	1d;	1g;
+*	*	*	*	*	*	*v	*v	*	*	*	*
+=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!
+2G	.	2g	2B	2G	2g	2d	2G	2BB	2d	2g
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1E	.	1g	1B	1E	1g	1e	1E	1BB	1e	1g
+2C	6	2a	2c	2C	2a	2e	2C	2C	2e	2a
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1AA	.	1cc	1e>	1AA	1cc	1a	1AA	1E	1a	1cc
+2D	6 n	2b	2d	2D	2b	2fn	2D	2D	2fn	2b
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1.E	6 4	1a	1c	1.E	1a	1.e	1E	1C	1e	1a
+.	5 #	2g#Xm	2B	.	2g#Xm	.	2E	2BBm	2e	2g#Xm
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*^	*	*	*	*
+1AA;	.	1a;	1A	1AA;	1a;	1e	1c	1AA;	1C;	1e;	1a;
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2D	.	2a	2d>	2D	2a	2f#X	2D	2D	2f#X	2a
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1G	.	1b	1d>	1G	1b	1g	1G	1D	1g	1b
+2E	6	2ccM	2c	2E	2ccM	2g	2E	2E	2g	2ccM
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*	*	*	*	*	*	*^	*	*	*	*
+1BB	6	1dd	1B	1BB	1dd	1g	1d	1BB	1D	1g	1dd
+*	*	*	*	*	*	*v	*v	*	*	*	*
+2C	.	2cc	2G	2C	2cc	2e	2C	2E	2g	2cc
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1.D	6 4	1b	1G	1.D	1b	1.d	1D	1D	1g	1b
+.	5 3	2aM	2F#	.	2aM	.	2D	2D	2f#m	2aM
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1GG;	.	1b;	1G	1GG;	1b;	1d	1GG;	1D;	1g;	1b;
+2BB	6	2g	[2G	2BB	2g	2d	2BB	2D	[2g	2g
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2C	6 5	1a	2G]	2C	1a	2e	(2C	(2E	(2g]	1a
+2D	.	.	2F#	2D	.	2d	2D)	2F#)	2f#)	.
+4E	6	2cc	4G	4E	2cc	4c	(4E	(4E	(4g	2cc
+4F#	5	.	4A	4F#	.	4d	4F#)	4D)	4a)	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1G	9	1b	2A	1G	1b	1d	1G	1D	(2a	1b
+.	8	.	2G	.	.	.	.	.	2g)	.
+2D#X	7 5	2a	2F#	2D#X	2a	2c	2D#X	2C	2f#	2a
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2E	.	1g	2G	2E	1g	2B	2E	(2BB	(1e	(1g
+2C	6 5	.	2E	2C	.	1A	2C	1AA)	.	.
+2D	.	2f#m	2D	2D	2f#m	.	2D	.	2d)	2f#m)
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1GG;	.	1g;	1D	1GG;	1g;	1B	1GG;	1BB;	1d;	1g;
+*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3,s4)}{(s5,s6)}{(s7,s8)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!AGN: chorale
+!!!EED: Derek Remeš
+!!!EED2: Victor Phan
+!!!END: 2023/11/28
+!!!ENC: Wolfgang Drescher
+!!!EEV: 2023/12/18
+!!!title: @{ONM}. @{OTL}
+!!!verovio: mnumInterval 1
