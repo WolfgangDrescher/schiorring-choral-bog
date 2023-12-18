@@ -1,8 +1,8 @@
 !!!COM: Schiørring, Niels
 !!!CDT: 1743-1798
-!!!COM: Niels Schiørring
+!!!OPR@@DA: Choral-Bog
 !!!ONM: 8
-!!!OPR@@DA: Alleeneste Gud i Himmerig
+!!!OTL@@DA: Alleeneste Gud i Himmerig
 **kern	**fb	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part6	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part1
 *staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -103,7 +103,7 @@
 !!!AGN: chorale
 !!!EED: Derek Remeš
 !!!EED2: Victor Phan
-!!!END: 2023/11/28
+!!!END: 2023/12/18
 !!!ENC: Wolfgang Drescher
 !!!EEV: 2023/12/18
 !!!title: @{ONM}. @{OTL}
