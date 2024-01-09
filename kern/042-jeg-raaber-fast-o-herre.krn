@@ -26,10 +26,10 @@
 2E	7	2e	2G	2E	2e	.	2E	2G	.	2e
 .	6	.	.	.	.	4cni	.	.	4c	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2F	6 5	1d	2A	2F	1d	2c	(2F	(2A	(2c	1d
+2F	6 5	1dM	2A	2F	1dM	2c	(2F	(2A	(2c	1dM
 2G	.	.	2G	2G	.	2B	2G)	2G)	2B)	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2C	.	2c	2E	2C	2c	2G	2C	2E	2c	2c
+2C;	.	2c;	2E;	2C	2c;	2G	2C;	2E;	2c;	2c;
 2AA	6	2f	2F	2AA	2f	2c	2AA	2F	2c	2f
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4BB-X	5	2d	4F	4BB-X	2d	2d	(4BB-X	(4F	2d	2d
@@ -39,9 +39,9 @@
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4D	5_	2f	2A	4D	2f	1d	(4D	2A	2d	2f
 4Cni	.	.	.	4Cni	.	.	4Cni)	.	.	.
-2BB-X	6	2g	2G	2BB-X	2g	.	2BB-X	2d	2d	2g
+2BB-X	6	2gM	2G	2BB-X	2gM	.	2BB-X	2d	2d	2gM
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2AA	#	2a	2E	2AA	2a	2c#X	2AA	2c#X	2e	2a
+2AA;	#	2a;	2E;	2AA	2a;	2c#X	2AA;	2c#X;	2e;	2a;
 *	*	*	*	*	*	*^	*	*	*	*
 2AA	n	2a	2A	2AA	2a	2cn	2e/	2AA	2c	2e	2a
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -51,10 +51,10 @@
 2AA	.	2cc	[1A	2AA	2cc	2e	1r	2AA	2A	2e	2cc
 2D	.	2dd	.	2D	2dd	2f	.	2D	[2A	2f	2dd
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1E	4	1b	2A]	1E	1b	2e	1r	1E	(2A]	(2e	1b
+1E	4	1bm	2A]	1E	1bm	2e	1r	1E	(2A]	(2e	1bm
 .	#	.	2G#X	.	.	2d	.	.	2G#X)	2d)	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-2F	.	2a	2A	2F	2a	2c	1r	2F	2A	2c	2a
+2F;	.	2a;	2A;	2F	2a;	2c	1r	2F;	2A;	2c;	2a;
 2GG#X	5	2dd	2e>	2GG#X	2dd	2b	.	2GG#X	2B	2e	2dd
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2AA	.	2cc	2e>	2AA	2cc	2a	1r	2AA	2c	2e	2cc
@@ -63,9 +63,9 @@
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 *	*	*	*	*	*	*	*	*^	*	*	*
 2E	6 4	2cc	2A]	1E	2cc	1e	1r	2E	2E	2e	2a]	2cc
-2EE	5 #	2b	2G#X	.	2b	.	.	2E	2EE	2d	2g#X	2b
+2EE	5 #	2bm	2G#X	.	2bm	.	.	2E	2EE	2d	2g#Xm	2bm
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2AA	.	2a	2A	2AA	2a	2e	2c\	2AA	1r	2c	2a	2a
+2AA;	.	2a;	2A;	2AA	2a;	2e	2c\	2AA;	1r	2c;	2a;	2a;
 *	*	*	*	*	*	*v	*v	*	*	*	*	*
 2F	.	2a	2A	2F	2a	2c	2F	.	2c	2f	2a
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
@@ -76,22 +76,22 @@
 .	-7	.	.	.	.	4B-X	.	.	4B-X)	.	.
 2D	.	2f	[2D	2D	2f	2A	2D	.	2A	[2d	2f
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2GG	6 5 -	1e	2D]	2GG	1e	2B-X	(2GG	1r	(2B-X	(2d]	1e
+2GG	6 5 -	1em	2D]	2GG	1e	2B-X	(2GG	1r	(2B-X	(2d]	1em
 2AA	#	.	2C#X	2AA	.	4A	2AA)	.	4A	2c#X)	.
 .	.	.	.	.	.	4G	.	.	4G)	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2BB-X	.	2d	2D	2BB-X	2d	2F	2BB-X	1r	2F	2d	2d
+2BB-X;	.	2d;	2D;	2BB-X	2d;	2F	2BB-X;	1r	2F;	2d;	2d;
 2GG	n	2g	2D	2GG	2g	2Bni	2GG	.	2Bi	2d	2g
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2BBni	6	2g	1G	2BBni	2g	2d	2BBni	1r	2G	2d	2g
 2C	.	2e	.	2C	2e	2c	2C	.	2G	2c	2e
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2FF	6	2f	2A>	2FF	2f	2d	2F	2FF	2A	2d	2f
-2GG	.	2d	4G	2GG	2d	2B	2G	2GG	4G	2B	2d
+2GG	.	2dM	4G	2GG	2dM	2B	2G	2GG	4G	2Bm	2dM
 .	.	.	4F	.	.	.	.	.	4F	.	.
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2C	.	2c	2E	2C	2c	2G	2C	2E	2c	2c
+2C;	.	2c;	2E;	2C	2c;	2G	2C;	2E;	2c;	2c;
 2C#X	6	2a	2A	2C#X	2a	2e	2C#X	2A	2e	2a
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2D	.	2f	2A	2D	2f	2d	2D	2A	2d	2f
@@ -100,10 +100,10 @@
 2F	.	2a	2c>	2F	2a	2f	2F	2c	2f	2a
 2BB-X	.	2b-X	2d>	2BB-X	2b-X	[2f	2BB-X	2d	[2f	2b-X
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-1C	4	1g	2c	1C	1g	2f]	1C	(2c	(2f]	1g
+1C	4	1gM	2c	1C	1gM	2f]	1C	(2c	(2f]	1gM
 .	3	.	2B-X	.	.	2e	.	2B-X)	2e)	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-2F	.	2f	2A	2F	2f	2c	2F	2A	2c	2f
+2F;	.	2f;	2A;	2F	2f;	2c	2F;	2A;	2c;	2f;
 4E	6	2g	4c	4E	2g	2e	(4E	(4c	2e	2g
 4D	#6\ 4 2	.	4B-X	4D	.	.	4D)	4B-X)	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -111,10 +111,10 @@
 2D	.	2f	.	2D	2f	2d	2D	2A	2d	2f
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 2GG	-	2g	2B-X>	2GG	2g	2.d	2GG	2B-X	[2d	2g
-2AA	4	2e	4A	2AA	2e	.	2AA	(4A	(4d]	2e
+2AA	4	2em	4A	2AA	2em	.	2AA	(4A	(4d]	2em
 .	#	.	4G	.	.	4c#X	.	4G)	4c#X)	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-2D	.	2d	2F	2D	2d	2A	2D	2F	2d	2d
+2D;	.	2d;	2F;	2D	2d;	2A	2D;	2F;	2d;	2d;
 *	*	*	*v	*v	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -128,6 +128,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

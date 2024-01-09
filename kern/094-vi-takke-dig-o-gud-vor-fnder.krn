@@ -33,10 +33,10 @@
 4B-	6_	2g	2G	4BB-	2g	2d	(4BB-	2G	2d	2g
 4A	.	.	.	4AA	.	.	4AA)	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2G	.	1b-	1G	2GG	1b-	2d	(2GG	1G	(2d	1b-
+2G	.	1b-M	1G	2GG	1b-M	2d	(2GG	1G	(2d	1b-M
 2C#X	7 5	.	.	2C#X	.	2e	2C#X)	.	2e)	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2D	#	2a	2F#X	2D	2a	2d	2D	2F#X	2d	2a
+2D;	#	2a;	2F#X;	2D	2a;	2d	2D;	2F#X;	2d;	2a;
 2D	6	2b-	[2B-	2D	2b-	2fni	2D	[2B-	2f	2b-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2C	7 -	2cc	4B-]	2C	2cc	2e-X	2C	(4B-]	2e-X	2cc
@@ -52,9 +52,9 @@
 2C	6 -	2a	2c	2C	2a	2e-X	2C	2c	2e-X	2a
 2C#X	7 5	2g	2B-	2C#X	2g	2en	2C#X	2B-	2en	2g
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-1D	#	1f#X	1A	1D	1f#X	1d	1D	1A	1d	1f#X
+1D	#	1f#Xm	1A	1D	1f#Xm	1d	1D	1Am	1d	1f#Xm
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-2GG	.	2g	2B->	2GG	2g	2d	2GG	2B-	2d	2g
+2GG;	.	2g;	2B->	2GG;	2g;	2d	2GG;	2B-;	2d;	2g;
 2G	.	2b-	2d>	2G	2b-	2g	2G	2d	2g	2b-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2C	7	2b-	1c>	2C	2b-	2e	2C	2c	2e	2b-
@@ -73,20 +73,20 @@
 2F#X	6	2dd	2d>	2F#X	2dd	2a	2F#X	2d	2a	2dd
 2D	7 #	2cc	2f#X>	2D	2cc	[2a	2D	2f#X	[2a	2cc
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2G	9	1b-	1d	1G	1b-	2a]	(2G	1d	(2a]	1b-
+2G	9	1b-M	1d	1G	1b-M	2a]	(2G	1d	(2a]	1b-M
 2GG	8	.	.	.	.	2g	2GG)	.	2g)	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2D	#	2a	2d	2D	2a	2f#X	2D	2d	2f#X	2a
+2D;	#	2a;	2d;	2D	2a;	2f#X	2D;	2d;	2f#X;	2a;
 2G	.	2b-	2d	2G	2b-	2g	2G	2d	2g	2b-
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2E-X	6	2cc	2G	2E-X	2cc	2g	2E-X	2c	2g	2cc
 2D	6 4	2b-	[2G	2D	2b-	2d	2D	2d	[2g	2b-
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-2C#X	6 5	1a	2G]	2C#X	1a	2eni	(2C#X	(2e	(2g]	1a
+2C#X	6 5	1am	2G]	2C#X	1am	2eni	(2C#X	(2e	(2g]	1am
 2D	#	.	4F#X	2D	.	2d	2D)	4d	2f#X)	.
 .	.	.	4cni	.	.	.	.	4c)	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2GG	.	2g	2B->	2GG	2g	2d	2GG	2B-	2g	2g
+2GG;	.	2g;	2B->	2GG;	2g;	2d	2GG;	2B-;	2g;	2g;
 *	*	*	*v	*v	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -100,6 +100,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

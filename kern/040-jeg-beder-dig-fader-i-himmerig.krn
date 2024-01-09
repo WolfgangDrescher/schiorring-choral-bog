@@ -26,22 +26,22 @@
 2D	.	2a	2F#	2D	2a	2d	2D	2d	2f#	2a
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2G	.	2b	2d>	2G	2b	2d	2G	2d	2g	2b
-2D#X	5	2a	2B	2D#X	2a	2f#	2D#X	2B	2f#	2a
+2D#X	5	2aM	2B	2D#X	2aM	2f#	2D#X	2B	2f#m	2aM
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2E	.	2g	2B	2E	2g	2e	2E	2B	2e	2g
+2E;	.	2g;	2B;	2E	2g;	2e	2E;	2B;	2e;	2g;
 2E	.	2g	2B	2E	2g	2e	2E	2B	2e	2g
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2D	6 n	2b	2d	2D	2b	2fn	2D	2d	2fn	2b
 2BB	#6\	2dd	2G#X	2BB	2dd	2d	2BB	2G#X	2d	2dd
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2AA	.	2cc	2A	2AA	2cc	2e	2AA	2A	2e	2cc
-2D	.	2a	2F#Xi	2D	2a	2d	2D	2F#	2d	2a
+2D	.	2aM	2F#Xi	2D	2aM	2d	2D	2F#m	2d	2aM
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2GG	.	1b	1G	2GG	1b	1d	(2GG	1G	1d	1b
 4BB	6	.	.	4BB	.	.	4BB	.	.	.
 4D	.	.	.	4D	.	.	4D)	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2G	.	2b	2G	2G	2b	2d	2G	2G	2d	2b
+2G;	.	2b;	2G;	2G	2b;	2d	2G;	2G;	2d;	2b;
 2F#	6	2a	2A	2F#	2a	2d	2F#	2A	2d	2a
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 2Fn	2	2b	2G	2Fn	2b	2d	2Fn	2G	2d	2b
@@ -51,10 +51,10 @@
 2AA	.	2cc	.	2AA	2cc	2a	2AA	2A	2e	2cc
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 1BB	8 6 4	2b	2E]	2BB	2b	2gni	2BB	2G	2e	2b
-.	7 5 #	2a	2D#X	2BB	2a	2f#	2BB	2F#	2d#X	2a
+.	7 5 #	2aM	2D#X	2BB	2a	2f#	2BB	2F#m	2d#X	2aM
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 *	*	*	*	*	*	*^	*	*	*	*
-2E	.	2g	2E	2EE	2g	2e	2B\	2E	2G	2e	2g
+2E;	.	2g;	2E;	2EE	2g;	2e	2B\	2E;	2G;	2e;	2g;
 *	*	*	*	*	*	*v	*v	*	*	*	*
 2D	6	2b	2dni>	2Dni	2b	2f#	2D	2d	2f#	2b
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
@@ -62,11 +62,11 @@
 2AA	7 #	2g	2c#X>	2AA	2g	2e	2AA	2c#X	2e	2g
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2D	.	2f#	2A	2D	2f#	1d	2D	2A	2d	2f#
-4BB	6	2g	2G	4BB	2g	.	(4BB	2d	2g	2g
+4BB	6	2gM	2G	4BB	2gM	.	(4BB	2d	2g	2gM
 4GG	.	.	.	4GG	.	.	4GG)	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 *	*	*	*	*	*	*	*^	*	*	*
-2DD	.	2a	2F#	2D	2a	2d	2D	2DD	2d	2f#	2a
+2DD;	.	2a;	2F#;	2D	2a;	2d	2D;	2DD	2d;	2f#;	2a;
 2GG	.	2b	2G	2GG	2b	2d	2G	2GG	2G	2d	2b
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
@@ -74,9 +74,9 @@
 2Fn	2	2g	2B	2Fn	2g	2d	2Fn	2B	2d	2g
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2E	nr2	2a	2c	2E	2a	1fn	2E	2c	2fn	2a
-2D	6 n	2b	2d	2D	2b	.	2D	2d	2f	2b
+2D	6 n	2bm	2d	2D	2bm	.	2D	2d	2f	2bm
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2C	.	2cc	2G	2C	2cc	2e	2C	2G	2e	2cc
+2C;	.	2cc;	2G;	2C	2cc;	2e	2C;	2G;	2e;	2cc;
 2G	.	2b	2B	2G	2b	2d	2G	2G	2d	2b
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2C	6	2a	2c	2C	2a	1e	2C	2E	2e	2a
@@ -86,11 +86,11 @@
 .	7	.	.	.	.	4cni	.	.	4c)	.
 2E	.	2g	[2G	2E	2g	2B	2E	[2G	2B	2g
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2C	6 5	1a	2G]	2C	1a	2e	(2C	(2G]	(2e	1a
+2C	6 5	1aM	2G]	2C	1aM	2e	(2C	(2G]	(2e	1aM
 2D	.	.	2F#	2D	.	2d	2D)	2F#)	2d)	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 *	*	*	*	*	*	*^	*	*	*	*
-2GG	.	2g	2G	2GG	2g	2d	2B\	2GG	2G	2B	2g
+2GG;	.	2g;	2G;	2GG	2g;	2d	2B\	2GG;	2G;	2B;	2g;
 *	*	*	*v	*v	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -104,6 +104,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

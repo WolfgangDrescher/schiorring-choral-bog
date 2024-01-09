@@ -31,7 +31,7 @@
 .	.	16gLL	.	.	16gLL	.	.	.	.	16gLL
 .	.	16a-JJ)	.	.	16a-JJ)	.	.	.	.	16a-JJ)
 *	*	*	*	*	*	*	*^	*	*	*
-2EE-	.	2g	2B-	2E-	2g	2e-	2E-	2EE-	2B-	2e-	2g
+2EE-;	.	2g;	2B-;	2E-	2g;	2e-	2E-;	2EE-	2B-;	2e-;	2g;
 *	*	*	*	*	*	*	*v	*v	*	*	*
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2E-	nr4	2an	2c	2E-	2an	1f	2E-	2c	2f	2an
@@ -41,10 +41,10 @@
 2G	6	2ee-	2B-Xi	2G	2ee-	2g	2G	2B-	2e-	2ee-
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2F	6	2dd	2f>	2F	2dd	2a-X	2F	2A-	2f	2dd
-2F#X	7 5	2cc	2e-	2F#X	2cc	2an	2F#X	2A	2e-	2cc
+2F#X	7 5	2ccM	2e-	2F#X	2ccM	2an	2F#X	2A	2e-M	2ccM
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1G	4	2cc	1d	1G	2cc	1g	2G	2G	2d	2cc
-.	n	2bn	.	.	2bn	.	2G	2G	2d	2bn
+1G;	4	2cc	1d;	1G	2cc	1g	2G	2G	2d	2cc
+.	n	2bn;	.	.	2bn;	.	2G;	2G;	2d;	2bn;
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 *	*	*	*	*	*	*^	*	*	*	*
 2B-Xi	nr4	2cc	2c	2B-Xi	2cc	2g	2en\	2BB-	2G	2en	2cc
@@ -57,9 +57,9 @@
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2A-	4 3	(4dd	2c]	2A-	4dd	1f	2A-	2c]	2f	(4dd
 .	.	4cc)	.	.	4cc	.	.	.	.	4cc)
-2G	7 n	2dd	2Bn	2G	2dd	.	2G	2B	2f	2dd
+2G	7 n	2ddm	2Bn	2G	2ddm	.	2G	2Bm	2f	2ddm
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-1C	.	1cc	1c	1C	1cc	1e-	1C	1c	1e-	1cc
+1C;	.	1cc;	1c;	1C	1cc;	1e-	1C;	1c;	1e-;	1cc;
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2AA-	.	2cc	2e->	2AA-	2cc	2a-	2AA-	2c	2e-	2cc
 2A-	.	2cc	2e-	2A-	2cc	2a-	2A-	2c	2e-	2cc
@@ -73,10 +73,10 @@
 .	6	2b-	2B-	.	2b-	2f	2D-	(4B-	2f	2b-
 .	.	.	.	.	.	.	.	[4d-X)	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-2E-	-7	2g	2B-	2E-	2g	2d-X	2E-	(4d-]	2e-	2g
+2E-	-7	2gm	2B-	2E-	2gm	2d-X	2E-	(4d-]	2e-	2gm
 .	.	.	.	.	.	.	.	8cL	.	.
 .	.	.	.	.	.	.	.	8B-J)	.	.
-2AA-	.	2a-	2A-	2AA-	2a-	2c	2AA-	2c	2e-	2a-
+2AA-;	.	2a-;	2A-;	2AA-	2a-;	2c	2AA-;	2c;	2e-;	2a-;
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2G	6	2b-	2e->	2G	2b-	2g	2G	2B-	2e-	2b-
 2E-	.	2b-	2e->	2E-	2b-	2g	2E-	2B-	2g	2b-
@@ -88,8 +88,8 @@
 .	#6\	.	.	.	.	2f#X	2AA-	2c	2f#X	.
 .	.	4dd	.	.	4dd	.	.	.	.	4dd
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-1GG	4	2cc	1d>	1GG	2cc	1g	2GG	2d	2g	2cc
-.	n	2bn	.	.	2bn	.	2GG	2d	2g	2bn
+1GG;	4	2cc	1d>	1GG;	2cc	1g	2GG	2d	2g	2cc
+.	n	2bn;	.	.	2bn;	.	2GG;	2d;	2g;	2bn;
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2En	-r5	2cc	2g>	2En	2cc	2b-Xi	2En	2B-	2g	2cc
 2F	8 n	2cc	2an>	2F	2cc	2an	2F	2A	(4f	2cc
@@ -102,10 +102,10 @@
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 1GG	4	(4dd	2c]	1G	(4dd	1g	1r	2GG	2c]	2.g	(4dd
 .	.	4cc)	.	.	4cc)	.	.	.	.	.	4cc)
-.	n	2dd	2Bn	.	2dd	.	.	2GG	2B	.	2dd
+.	n	2ddm	2Bn	.	2ddm	.	.	2GG	2Bm	.	2ddm
 .	.	.	.	.	.	.	.	.	.	4f	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-1C	.	1cc	1c	1C	1cc	1g	1e-\	1C	1c	1e-	1cc
+1C;	.	1cc;	1c;	1C	1cc;	1g	1e-\	1C;	1c;	1e-;	1cc;
 *	*	*	*v	*v	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -119,6 +119,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

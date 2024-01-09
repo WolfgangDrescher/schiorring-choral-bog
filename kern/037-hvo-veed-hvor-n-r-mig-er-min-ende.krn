@@ -27,10 +27,10 @@
 2D	3	2a	2d	2D	2a	2f	2D	2d	2f	2a
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2BB	6	2g	1G	2BB	2g	2d	2BB	2G	2d	2g
-2GG	7	2f	.	2GG	2f	2B	2GG	2G	2B	2f
+2GG	7	2fM	.	2GG	2fM	2B	2GG	2G	2B	2fM
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-1C	.	2e	2G	2C	2e	2c	2C	2G	2c	2e
-.	.	2c	2E	2C	2c	2G	2C	2E	2G	2c
+1C;	.	2e	2G	2C	2e	2c	2C	2G	2c	2e
+.	.	2c;	2E;	2C	2c;	2G	2C;	2E;	2G;	2c;
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2r	.	2r	2r	2r	2r	2r	2r	2r	2r	2r
 2C	.	2e	2G	2C	2e	2c	2C	2G	2c	2e
@@ -44,10 +44,10 @@
 4D	.	.	.	4D	.	.	4D)	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2C	6 5	2a	2G]	2C	2a	2e	2C	2G]	2e	2a
-2D	#	2a	4F#X	2D	2a	2d	2D	2F#X	(4d	2a
+2D	#	2aM	4F#X	2D	2aM	2d	2D	2F#Xm	(4d	2aM
 .	.	.	4c	.	.	.	.	.	4c)	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-2GG	.	2g	2B	2G	2g	2d	2GG	2G	2B	2g
+2GG;	.	2g;	2B;	2G	2g;	2d	2GG;	2G;	2B;	2g;
 =11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!	=11:|!
 2G	.	2g	2B	2G	2g	2d	2G	2B	2d	2g
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
@@ -61,9 +61,9 @@
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2D	7	2ff	2d	2D	2ff	4cc]	2f\	2D	(4c]	2f	2ff
 .	6	.	.	.	.	4b	.	.	4B)	.	.
-2C	.	2ee	2G	2C	2ee	[2cc	2g\	2C	[2c	2g	2ee
+2C	.	2eem	2G	2C	2ee	[2cc	2g\	2C	[2c	2g	2eem
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2GG	4	2dd	2G	2GG	2dd	4cc]	2g\	2GG	(4c]	2g	2dd
+2GG;	4	2dd;	2G;	2GG	2dd;	4cc]	2g\	2GG;	(4c]	2g;	2dd;
 .	3	.	.	.	.	4b	.	.	4B)	.	.
 *	*	*	*	*	*	*v	*v	*	*	*	*
 2GG#X	6	2ee	2e>	2GG#X	2ee	2b	2GG#X	2B	2e	2ee
@@ -75,10 +75,10 @@
 2E	6	2cc	2c	2E	2cc	2g	2E	2c	2g	2cc
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2F	6 5	2cc	2A	2F	2cc	2.d	2F	2A	2d	2cc
-2G	.	2b	2G	2G	2b	.	2G	2G	2d	2b
+2G	.	2bm	2G	2G	2bm	.	2G	2G	2d	2bm
 .	.	.	.	.	.	4f	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2C	.	2cc	2G	2C	2cc	2e	2C	2G	2e	2cc
+2C;	.	2cc;	2G;	2C	2cc;	2e	2C;	2G;	2e;	2cc;
 *	*	*	*v	*v	*	*	*	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -91,6 +91,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

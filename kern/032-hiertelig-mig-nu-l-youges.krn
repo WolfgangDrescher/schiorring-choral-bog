@@ -24,19 +24,19 @@
 2D	.	2f	2A	2D	2f	2d	2D	2A	2d	2f
 2E	#	2e	2G#X	2E	2e	2B	2E	2G#X	2B	2e
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-1F	6	1d	1A	1F	1d	1A	1F	1A	1A	1d
+1F	6	1dM	1A	1F	1dM	1A	1F	1A	1A	1dM
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2E	#	2e	2G#X	2E	2e	2B	2E	2G#X	2B	2e
+2E;	#	2e;	2G#X;	2E	2e;	2B	2E;	2G#X;	2B;	2e;
 2GG#X	6 5	2b	2d>	2GG#X	2b	2e	2GG#X	2d	2e	2b
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2AA	.	2cc	2c>	2AA	2cc	2e	2AA	2c	2e	2cc
 2F	.	2cc	[2A	2F	2cc	2f	2F	[2A	2f	2cc
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 2D	6 5	2b	2A]	2D	2b	2f	2D	2A]	2f	2b
-2E	#	2b	4G#X	2E	2b	2e	2E	2G#X	4e	2b
+2E	#	2bm	4G#X	2E	2bm	2e	2E	2G#Xm	4e	2bm
 .	.	.	4d	.	.	.	.	.	4d	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2AA	.	2a	2c>	2AA	2a	2e	2AA	2A	2c	2a
+2AA;	.	2a;	2c>	2AA;	2a;	2e	2AA;	2A;	2c;	2a;
 =9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!	=9:|!
 *	*	*	*	*	*	*	*^	*	*	*
 2FF#X	5	2cc	2d>	2FF#X	2cc	2a	2F#X	2FF#X	2A	2d	2cc
@@ -46,14 +46,14 @@
 2C	.	2g	2c	2C	2g	2e	2C	2c	2e	2g
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2F	.	2a	2c	2F	2a	1f	2F	2c	2f	2a
-2D	6	2b	2d	2D	2b	.	2D	2d	2f	2b
+2D	6	2bm	2d	2D	2bm	.	2D	2d	2f	2bm
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2C	.	1cc	2G	2C	1cc	2e	(2C	(2e	(2g	1cc
 *	*	*	*	*	*	*	*^	*	*	*
 4AA	6	.	2F	4AA	.	2f	4A	4AA	2f)	2a)	.
 4FF	.	.	.	4FF	.	.	4F)	4FF	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-2C	.	2cc	2G	2C	2cc	2e	2c	2C	2e	2g	2cc
+2C;	.	2cc;	2G;	2C	2cc;	2e	2c;	2C	2e;	2g;	2cc;
 *	*	*	*	*	*	*	*v	*v	*	*	*
 2B-X	6	2g	2d>	2B-X	2g	2d	2B-X	2d	2d	2g
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
@@ -61,9 +61,9 @@
 2C#X	5	2g	2A	2C#X	2g	[2e	2C#X	2A	[2e	2g
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2D	9	2f	2A	2D	2f	2e]	2D	2A	2e]	2f
-2GG#X	7 5	2f	[2B>	2GG#X	2f	[2d	2GG#X	[2B	[2d	2f
+2GG#X	7 5	2fM	[2B>	2GG#X	2f	[2d	2GG#X	[2B	[2d	2fM
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-2AA	9 4	2e	4B]>	2AA	2e	4d]	2AA	(4B]	(4d]	2e
+2AA;	9 4	2e;	4B]>	2AA;	2e;	4d]	2AA;	(4B]	(4d]	2e;
 .	8 #	.	4A>	.	.	4c#X	.	4A)	4c#X)	.
 *	*	*	*	*	*	*	*^	*	*	*
 2FF#X	5	2cc	2d>	2FF#X	2ccni	2a	2F#X	2FF#X	2A	2d	2cc
@@ -75,11 +75,11 @@
 2C	.	2cc	2e>	2C	2cc	2g	2C	2e	2g	2cc
 2C#X	7 5	2b	2e>	2C#X	2b	[2g	2C#X	2e	[2g	2b
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-1D	4	1a	1A	1D	1a	2g]	1D	1A	2g]	1a
-.	#	.	.	.	.	2f#X	.	.	2f#X	.
+1D	4	1aM	1A	1D	1aM	2g]	1D	1A	2g]	1aM
+.	#	.	.	.	.	2f#X	.	.	2f#Xm	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 *	*	*	*	*	*	*^	*	*	*	*
-2GG	.	2b	2G	2GG	2b	2d	2g/	2GG	2G	2g	2b
+2GG;	.	2b;	2G;	2GG	2b;	2d	2g/	2GG;	2G;	2g;	2b;
 *	*	*	*	*	*	*v	*v	*	*	*	*
 2C	.	2e	2G	2C	2e	2c	2C	2G	2e	2e
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
@@ -87,16 +87,16 @@
 [2C	.	2e	.	[2C	2e	2c	[2C	2G	2c	2e
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 2C]	4 2	2d	1F	2C]	2d	2A	2C]	2F	2A	2d
-4BB	.	2d	.	4BB	2d	[2d	4BB	2F	[2d	2d
+4BB	.	2dM	.	4BB	2dM	[2d	4BB	2F	[2d	2dM
 4AA	.	.	.	4AA	.	.	4AA	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2GG#X	5	[1e	4E	2GG#X	[1e	2d]	(2GG#X	(4E	(2d]	[1e
 .	.	.	2B>	.	.	.	.	2B	.	.
-2AA	9	.	.	2AA	.	2c	2AA	.	2c	.
+2AA	9	.	.	2AA	.	2c	2AA	.	2cM	.
 .	8	.	4A>	.	.	.	.	4A	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 *	*	*	*	*	*	*	*^	*	*	*
-2EE	#	2e]	2G#X>	2EE	2e]	2B	2E)	2EE	2G#X)	2B)	2e]
+2EE;	#	2e]	2G#X>	2EE;	2e]	2B	2E)	2EE	2G#X)	2B)	2e]
 *	*	*	*v	*v	*	*	*v	*v	*	*	*
 *	*	*	*	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -110,6 +110,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1

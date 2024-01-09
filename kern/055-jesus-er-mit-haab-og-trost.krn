@@ -24,9 +24,9 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 *	*	*	*	*	*	*^	*	*	*	*
 2AA	.	2cc	2A	2AA	2cc	2a	2e\	2AA	2E	2e	2cc
-2D	7 #	2cc	2A	2D	2cc	2f#X	2d\	2D	2F#X	2d	2cc
+2D	7 #	2ccM	2A	2D	2cc	2f#X	2d\	2D	2F#X	2d	2ccM
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-1GG	.	1b	1G	1GG	1b	1g	1d\	1GG	1G	1d	1b
+1GG;	.	1b;	1G;	1GG	1b;	1g	1d\	1GG;	1G;	1d;	1b;
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2D	n	2a	2d>	2D	2a	2f	1r	2D	2F	2d	2a
 2E	6	2cc	2G	2E	2cc	2e	.	2E	2G	2c	2cc
@@ -38,10 +38,10 @@
 4BB	5	.	2.G	4BB	.	4d	.	4BB)	4G)	4d)	.
 2C	.	2e	.	2C	2e	[2c	.	2C	[2G	[2c	2e
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1GG	4	1d	2G	1GG	1d	2c]	1r	1GG	(2G]	(2c]	1d
+1GG	4	1dM	2G	1GG	1dM	2c]	1r	1GG	(2G]	(2c]	1dM
 .	3	.	2F	.	.	2B	.	.	2F)	2B)	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-1C	.	1c	1E	1C	1c	1G	1r	1C	1E	1c	1c
+1C;	.	1c;	1E;	1C	1c;	1G	1r	1C;	1E;	1c;	1c;
 =10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!
 1C	5	2e	2G	1C	2e	2c	1r	2C	2G	2c	2e
 .	#4|	2f#X	2A	.	2f#X	2d	.	2C	2A	2d	2f#X
@@ -50,9 +50,9 @@
 2AA	.	2a	2c>	2AA	2a	2e	.	2AA	2c	2e	2a
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2D	6 5	2a	1B	2D	2a	2f	1r	2D	2B	2f	2a
-2E	#	2g#X	.	2E	2g#X	2e	.	2E	2B	2e	2g#X
+2E	#	2g#Xm	.	2E	2g#Xm	2e	.	2E	2Bm	2e	2g#Xm
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-1AA	.	1a	1A	1AA	1a	1e	1c\	1AA	1c	1e	1a
+1AA;	.	1a;	1A;	1AA	1a;	1e	1c\	1AA;	1c;	1e;	1a;
 *	*	*	*	*	*	*v	*v	*	*	*	*
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2D	6	2b	2d>	2D	2b	2f	2D	2d	2f	2b
@@ -64,9 +64,9 @@
 .	.	.	.	.	.	.	.	.	4c)	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2F	6 5	2dd	2c]	2F	2dd	2a	1r	2F	2c	2a	2dd
-2G	.	2dd	2B	2G	2dd	2g	.	2G	2B	2g	2dd
+2G	.	2ddM	2B	2G	2ddM	2g	.	2G	2Bm	2g	2ddM
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-1C	.	1cc	1c	1C	1cc	1g	1e\	1C	1c	1e	1cc
+1C;	.	1cc;	1c;	1C	1cc;	1g	1e\	1C;	1c;	1e;	1cc;
 *	*	*	*v	*v	*	*	*	*	*	*	*
 *	*	*	*	*v	*v	*v	*	*	*	*
 ==	==	==	==	==	==	==	==	==
@@ -79,6 +79,6 @@
 !!!EED2: Victor Phan
 !!!END: 2023/11/28
 !!!ENC: Wolfgang Drescher
-!!!EEV: 2023/12/12
+!!!EEV: 2024/01/09
 !!!title: @{ONM}. @{OTL}
 !!!verovio: mnumInterval 1
