@@ -93,6 +93,7 @@ convert_file() {
             transpose -s 7 -t -P8 | \
             sed '/^!!!.*\t/ s/\t.*//' | \
             sed '/\*Trd0c0/d' | \
+            sed '/!!pagebreak:original/d' | \
             cat <(echo -e -n "!!!ONM: $num\n") - | \
             swap_lines | \
             sed "s/^!!!OMV:/!!!OTL@@DA:/" | \
