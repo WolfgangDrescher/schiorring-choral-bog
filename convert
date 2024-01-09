@@ -79,7 +79,7 @@ convert_file() {
         fi
         unzip -o "$file" -d tmp &> /dev/null
         pattern="tmp/*.xml"
-        kern_filename=$(php slugify.php "$(echo "$filename" | sed "s/Schiorring - //")")
+        kern_filename=$(php slugify.php "$(echo "$filename" | sed "s/Schiorring - //" | sed "s/Koralbog_Dorico5 - Manuscript - //")")
         num=$(echo "$kern_filename" | grep -o '^[0-9]\+' | sed 's/^0*//')
         num=$(correct_count "$num")
         padded_num=$(pad_with_zeros "$num")
