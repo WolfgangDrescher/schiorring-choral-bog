@@ -1,2 +1,10 @@
 vendor
 .vscode
+tests
+tmp
+/*.krn
+/*.xml
+/*.musicxml
+/*.zip
+/*.mxl
+.DS_Store

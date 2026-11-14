@@ -1,0 +1,39 @@
+Errors:
+  - 17 (invisible rests and grace note at end)
+  - 61 (missing notes from M. 317, Verovio limit reached?)
+
+* Initial Key without accidentals
+* Modulations
+
+Missing:
+  - 7
+  - 8
+
+Missing content:
+  - 72
+  - 75
+  - 96
+
+
+musicxml2hum:
+  <!-- - 11 (spine merge) -->
+  <!-- - 23 (spine merge) -->
+  - !!! 32/31 (final note duration)
+  - 48/47 (note duration at spine merge)
+  - 50/49 (visible rests)
+  - 58/59 (note duration at spine merge)
+  - !!! 62/61 (rest duration too long, also spine merge)
+  <!-- - 72/71? (note duration at spine merge, visible rests) -->
+  <!-- - 75/73 (note duration at spine merge) -->
+  <!-- - 79/77 (note duration at spine merge) -->
+  - 84/82 (note duration at spine merge)
+  - ==> 87/85 (note duration at spine merge)
+  <!-- - 91/89 (note duration at spine merge) -->
+  <!-- - 92/90 (note duration at spine merge) -->
+  - 99/97 (visible rests)
+  <!-- - 100/98 (rest duration too long, also spine merge) -->
+  - !!! 101/99 (missing note after spine merge)
+
+
+verovio:
+  - 43 (slur with editorial accidental)

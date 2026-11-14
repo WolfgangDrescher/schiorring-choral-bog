@@ -86,6 +86,7 @@ convert_file() {
         kern_filename="${padded_num}$(echo "$kern_filename" | sed 's/^[0-9]*//')"
         kern_file="$kern_filename.krn"
         echo -e "$kern_file"
+        # musicxml2hum "$xml_file" > "kern/$kern_file"
         musicxml2hum "$xml_file" | \
             extractxx -I "**recip" | \
             `#shed -x **fb -e "s/_//g" |` \
@@ -122,8 +123,9 @@ convert_file() {
             sed "s/yy@/yy/" | \
             grep -v '^*I' | \
             awk '!/^([\t*]+)$/' | \
-            echo -ne "$(cat)" \
+            echo -e "$(cat)" \
             > "kern/$kern_file"
+        # mkdir -p svg && verovio --adjust-page-height --page-height 60000 -o "svg/$kern_filename.svg" "kern/$kern_file"
     fi
 }
 
